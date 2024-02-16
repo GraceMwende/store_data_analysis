@@ -3,7 +3,7 @@
 # Example R code to install packages if not already installed
 #
 
-my_packages = c("randomForest","shinydashboard","ggplot2","rio","lubridate","dplyr")
+my_packages = c("shinydashboard","ggplot2","rio","lubridate","dplyr")
 
 install_if_missing = function(p) {
   if (p %in% rownames(installed.packages()) == FALSE) {
