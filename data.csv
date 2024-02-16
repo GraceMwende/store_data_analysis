@@ -1,0 +1,2001 @@
+"Order ID","Order Date","CustomerName","State","City","Amount","Profit","Quantity","Category","Sub-Category","PaymentMode"
+"B-26055",2018-03-10,"Harivansh","Uttar Pradesh","Mathura",NA,NA,NA,NA,NA,NA
+"B-25993",2018-02-03,"Madhav","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25973",2018-01-24,"Madan Mohan","Uttar Pradesh","Mathura",NA,NA,NA,NA,NA,NA
+"B-25923",2018-12-27,"Gopal","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25757",2018-08-21,"Vishakha","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25967",2018-01-21,"Sudevi","Uttar Pradesh","Prayagraj",NA,NA,NA,NA,NA,NA
+"B-25955",2018-01-16,"Shiva","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-26093",2018-03-27,"Sarita","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25798",2018-10-01,"Shishu","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25602",2018-04-01,"Vrinda","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25858",2018-11-13,"Uudhav","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25969",2018-01-21,"Shreyshi","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-26099",2018-03-30,"Bhishm","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25997",2018-02-04,"Yogesh","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25881",2018-11-25,"Lalita","Uttar Pradesh","Mathura",NA,NA,NA,NA,NA,NA
+"B-25761",2018-08-25,"Madhav","Uttar Pradesh","Mathura",NA,NA,NA,NA,NA,NA
+"B-25887",2018-12-01,"Vishakha","Uttar Pradesh","Prayagraj",NA,NA,NA,NA,NA,NA
+"B-25823",2018-10-18,"Rohan","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25853",2018-11-08,"Gaurav","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25862",2018-11-15,"Amol","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25830",2018-10-26,"Aastha","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25786",2018-09-19,"Madan Mohan","Uttar Pradesh","Mathura",NA,NA,NA,NA,NA,NA
+"B-25686",2018-06-11,"Pooja","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-26022",2018-02-18,"Shrichand","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-26003",2018-02-08,"Hitesh","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25755",2018-08-19,"Shourya","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25902",2018-12-10,"Ishpreet","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25935",2018-01-04,"Sudhir","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25797",2018-09-30,"Sauptik","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25639",2018-04-27,"Lisha","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25681",2018-06-04,"Bhawna","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25909",2018-12-13,"Sujay","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25910",2018-12-14,"Jay","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25950",2018-01-13,"Shruti","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25613",2018-04-12,"Mohan","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25919",2018-12-23,"Neha","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25768",2018-09-01,"Shreyoshe","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25629",2018-04-24,"Hemant","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25729",2018-07-22,"Madhulika","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25943",2018-01-09,"Shardul","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25842",2018-11-02,"Sheetal","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-26073",2018-03-21,"Pournamasi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25778",2018-09-11,"Surabhi","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25717",2018-07-12,"Manshul","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-26085",2018-03-26,"Shrichand","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-26048",2018-03-04,"Parth","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25793",2018-09-24,"Siddharth","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25656",2018-05-11,"Priyanka","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25608",2018-04-08,"Aarushi","Tamil Nadu","Chennai",NA,NA,NA,NA,NA,NA
+"B-25752",2018-08-14,"Vaibhav","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25779",2018-09-12,"Savi","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25603",2018-04-03,"Jahan","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-26051",2018-03-07,"Parishi","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25653",2018-05-08,"Farah","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25855",2018-11-08,"Abhijeet","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25762",2018-08-26,"Anudeep","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25995",2018-02-04,"Yohann","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25929",2018-01-02,"Girase","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-26006",2018-02-09,"Arpita","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25697",2018-06-22,"Vijay","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25836",2018-10-29,"Arti","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25601",2018-04-01,"Bharat","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25873",2018-11-23,"Divyeta","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26028",2018-02-20,"Manju","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25964",2018-01-20,"Oshin","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25676",2018-06-01,"Chandni","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25839",2018-10-30,"Pranjali","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25894",2018-12-04,"Monu","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-25925",2018-12-29,"Shruti","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25953",2018-01-14,"Krutika","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25772",2018-09-02,"Sanjana","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25957",2018-01-18,"Mahima","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25730",2018-07-22,"Rishabh","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25877",2018-11-24,"Dashyam","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-26067",2018-03-16,"Tulika","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25810",2018-10-10,"Nripraj","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25868",2018-11-18,"Vikash","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-26023",2018-02-19,"Mukesh","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25626",2018-04-23,"Bhishm","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25937",2018-01-05,"Ankit","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25610",2018-04-09,"Yogesh","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25777",2018-09-10,"Aditi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25738",2018-08-02,"Ayush","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25978",2018-01-27,"Parin","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25643",2018-04-29,"Kirti","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25728",2018-07-22,"Ameesha","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25749",2018-08-13,"Ayush","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25667",2018-05-23,"Anjali","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25657",2018-05-13,"Tulika","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25753",2018-08-17,"Shivam","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-26061",2018-03-14,"Anurag","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25838",2018-10-29,"Sanjana","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25702",2018-06-27,"Shaily","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25952",2018-01-13,"Priyanka","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25666",2018-05-22,"Tanvi","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25675",2018-05-31,"Shreya","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25650",2018-05-06,"Chirag","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25986",2018-01-31,"Shweta","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25850",2018-11-05,"Abhishek","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25898",2018-12-07,"Abhishek","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25813",2018-10-10,"Hrisheekesh","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25825",2018-10-21,"Kartik","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25954",2018-01-14,"Trupti","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25696",2018-06-21,"Noopur","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25638",2018-04-26,"Parth","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25747",2018-08-11,"Harsh","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25904",2018-12-10,"Swapnil","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25852",2018-11-07,"Soumyabrata","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25981",2018-01-28,"Amruta","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25899",2018-12-08,"Aishwarya","Uttar Pradesh","Prayagraj",NA,NA,NA,NA,NA,NA
+"B-25870",2018-11-20,"Pranav","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-26040",2018-02-26,"Sahil","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25671",2018-05-27,"Mitali","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-26100",2018-03-31,"Hitika","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25651",2018-05-07,"Anurag","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25968",2018-01-21,"Paromita","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-26019",2018-02-15,"Jitesh","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25664",2018-05-20,"Pratyusmita","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-26033",2018-02-22,"Atharv","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-26052",2018-03-08,"Ajay","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25999",2018-02-05,"Diwakar","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25781",2018-09-14,"Rutuja","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25764",2018-08-28,"Sanjova","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25803",2018-10-05,"Shivanshu","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25945",2018-01-11,"Mhatre","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26086",2018-03-26,"Mukesh","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25845",2018-11-03,"Snel","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25817",2018-10-13,"Praneet","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25951",2018-01-13,"Jesal","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25970",2018-01-22,"Rhea","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25878",2018-11-24,"Mrinal","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26057",2018-03-10,"Sharda","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25885",2018-11-28,"Shatayu","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25897",2018-12-06,"Rohan","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25756",2018-08-20,"Mohan","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25859",2018-11-14,"Chikku","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25691",2018-06-16,"Akancha","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25633",2018-04-26,"Amit","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25708",2018-07-01,"Kishwar","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25831",2018-10-27,"Mahima","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25856",2018-11-10,"Abhijeet","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25893",2018-12-04,"Vrinda","Uttar Pradesh","Mathura",NA,NA,NA,NA,NA,NA
+"B-25959",2018-01-18,"Muskan","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26000",2018-02-06,"Shubham","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-26097",2018-03-28,"Vini","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25745",2018-08-09,"Kartik","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25974",2018-01-25,"Manisha","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25670",2018-05-25,"Charika","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25848",2018-11-03,"Rohan","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25888",2018-12-02,"Rohan","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-25942",2018-01-08,"Ankur","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25847",2018-11-03,"Aniket","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25636",2018-04-26,"Nishi","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25826",2018-10-22,"Tanushree","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26081",2018-03-22,"Aarushi","Tamil Nadu","Chennai",NA,NA,NA,NA,NA,NA
+"B-25625",2018-04-23,"Pinky","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25802",2018-10-05,"Yash","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25693",2018-06-18,"Parna","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25796",2018-09-24,"Sukrith","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25806",2018-10-06,"Dhanraj","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25710",2018-07-05,"Megha","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25669",2018-05-25,"Piyali","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25857",2018-11-10,"Anand","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25785",2018-09-15,"Ayush","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25930",2018-01-03,"Monica","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-26053",2018-03-09,"Kirti","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-26070",2018-03-18,"Shruti","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25791",2018-09-24,"Avish","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25983",2018-01-30,"Atul","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25979",2018-01-27,"Shivangi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26054",2018-03-10,"Mayank","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26078",2018-03-22,"Kasheen","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25787",2018-09-20,"Asish","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25682",2018-06-07,"Krutika","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25962",2018-01-19,"Tejeswini","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25750",2018-08-14,"Priyanshu","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25828",2018-10-24,"Nikita","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25622",2018-04-22,"Monisha","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25751",2018-08-14,"Nishant","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25685",2018-06-10,"Sheetal","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26010",2018-02-11,"Kartikay","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-26035",2018-02-23,"Pinky","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25698",2018-06-23,"Amisha","Tamil Nadu","Chennai",NA,NA,NA,NA,NA,NA
+"B-25966",2018-01-21,"Soumya","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25832",2018-10-28,"Harshita","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25743",2018-08-07,"Aman","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25886",2018-11-28,"Brijesh","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25975",2018-01-25,"Priyanka","Uttar Pradesh","Prayagraj",NA,NA,NA,NA,NA,NA
+"B-26098",2018-03-29,"Pinky","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25614",2018-04-13,"Vandana","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25726",2018-07-21,"Kiran","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26050",2018-03-06,"Paridhi","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25609",2018-04-09,"Jitesh","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25741",2018-08-03,"Navdeep","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25956",2018-01-17,"Shreya","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25689",2018-06-14,"Bhaggyasree","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25939",2018-01-05,"Vineet","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25890",2018-12-04,"Divyansha","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25814",2018-10-10,"Swapnil","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25718",2018-07-12,"Anjali","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25914",2018-12-18,"Kajal","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25903",2018-12-10,"Amlan","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26096",2018-03-28,"Atharv","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25654",2018-05-10,"Sabah","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26076",2018-03-21,"Jahan","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25961",2018-01-18,"Surbhi","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25854",2018-11-08,"Shubham","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25642",2018-04-28,"Ajay","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25683",2018-06-08,"Shreya","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-26016",2018-02-14,"Hazel","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-26034",2018-02-23,"Vini","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-26056",2018-03-10,"Sonal","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25819",2018-10-15,"Ankur","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25715",2018-07-10,"Srishti","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25933",2018-01-04,"Shikhar","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26014",2018-02-13,"Divsha","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25655",2018-05-11,"Nida","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25816",2018-10-12,"Mane","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25634",2018-04-26,"Sanjay","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25895",2018-12-04,"Sathya","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-25687",2018-06-11,"Sanjna","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25662",2018-05-17,"Sweta","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25635",2018-04-26,"Nidhi","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-26060",2018-03-13,"Chirag","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26045",2018-03-03,"Nidhi","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25770",2018-09-02,"Sakshi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25744",2018-08-08,"Devendra","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25618",2018-04-18,"Manju","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25958",2018-01-18,"Aparajita","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25769",2018-09-02,"Surbhi","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25619",2018-04-18,"Ramesh","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25688",2018-06-11,"Swetha","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25829",2018-10-25,"Apoorva","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-26036",2018-02-23,"Bhishm","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25714",2018-07-09,"Stuti","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25989",2018-02-01,"Anjali","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25849",2018-11-04,"K","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25851",2018-11-06,"Kushal","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25782",2018-09-15,"Aayushi","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25621",2018-04-20,"Deepak","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25996",2018-02-04,"Prashant","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25678",2018-06-03,"Bathina","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25727",2018-07-22,"Turumella","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26018",2018-02-14,"Aarushi","Tamil Nadu","Chennai",NA,NA,NA,NA,NA,NA
+"B-25760",2018-08-24,"Pooja","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25804",2018-10-05,"Sudheer","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25754",2018-08-18,"Akshay","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-26020",2018-02-16,"Yogesh","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25640",2018-04-27,"Paridhi","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25789",2018-09-22,"Akshay","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-26072",2018-03-20,"Sweta","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26007",2018-02-09,"Shubham","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-26087",2018-03-26,"Vandana","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25617",2018-04-17,"Sagar","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25984",2018-01-30,"Kajal","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25767",2018-08-31,"Ashmeet","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25987",2018-01-31,"Manjiri","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25840",2018-10-31,"Sneha","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25663",2018-05-19,"Pournamasi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26030",2018-02-21,"Sarita","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25947",2018-01-13,"Chetan","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25896",2018-12-05,"Aman","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26009",2018-02-10,"Komal","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25876",2018-11-24,"Bhosale","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-25915",2018-12-19,"Sukruta","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-25795",2018-09-24,"Sukant","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-26002",2018-02-08,"Harsh","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25645",2018-05-01,"Yaanvi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25837",2018-10-29,"Palak","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25612",2018-04-12,"Shrichand","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25812",2018-10-10,"Kshitij","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25843",2018-11-03,"Mrunal","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26026",2018-02-19,"Kanak","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25773",2018-09-06,"Shreya","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25875",2018-11-24,"Divyeshkumar","Uttar Pradesh","Prayagraj",NA,NA,NA,NA,NA,NA
+"B-25660",2018-05-16,"Shruti","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25918",2018-12-22,"Karandeep","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25971",2018-01-22,"Mitali","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26063",2018-03-15,"Farah","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25867",2018-11-17,"Ankit","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25703",2018-06-28,"Ekta","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25661",2018-05-17,"Subhashree","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25748",2018-08-12,"Nitant","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25766",2018-08-30,"Surabhi","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25861",2018-11-15,"Aayush","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-26058",2018-03-11,"Aditya","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25808",2018-10-08,"Apsingekar","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25900",2018-12-09,"Anand","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-26084",2018-03-25,"Anita","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25652",2018-05-08,"Tushina","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-26008",2018-02-09,"Kalyani","Tamil Nadu","Chennai",NA,NA,NA,NA,NA,NA
+"B-25799",2018-10-01,"Divyansh","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25927",2018-12-31,"Shreya","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25985",2018-01-31,"Ginny","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25994",2018-02-03,"Omkar","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25620",2018-04-20,"Sarita","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25712",2018-07-07,"Adhvaita","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25976",2018-01-25,"Piyam","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-26068",2018-03-16,"Shefali","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25721",2018-07-16,"Anchal","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25863",2018-11-15,"Manibalan","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25991",2018-02-03,"Mansi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25737",2018-08-01,"Shubham","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26043",2018-03-01,"Amit","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25977",2018-01-27,"Aayushi","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-25908",2018-12-12,"Pradeep","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25941",2018-01-07,"Jaideep","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25794",2018-09-24,"Aditya","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-26041",2018-02-27,"Ritu","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25695",2018-06-18,"Suhani","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25960",2018-01-18,"Shreya","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-26037",2018-02-23,"Hitika","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25921",2018-12-25,"Sandra","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-25944",2018-01-10,"Syed","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25724",2018-07-19,"Sheetal","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26024",2018-02-19,"Vandana","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25694",2018-06-18,"Subhasmita","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25665",2018-05-21,"Chayanika","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-26004",2018-02-08,"Nandita","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25611",2018-04-11,"Anita","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25901",2018-12-10,"Suraj","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-25623",2018-04-22,"Atharv","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25713",2018-07-08,"Raksha","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-26091",2018-03-27,"Manju","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25604",2018-04-03,"Divsha","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25827",2018-10-23,"Sheetal","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25835",2018-10-29,"Moumita","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-26025",2018-02-19,"Bhavna","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25809",2018-10-09,"Suman","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25905",2018-12-11,"Bhargav","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25948",2018-01-13,"Mukund","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-26094",2018-03-27,"Deepak","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25949",2018-01-13,"Shantanu","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26001",2018-02-07,"Patil","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25771",2018-09-02,"Vaibhavi","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25659",2018-05-15,"Sanskriti","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25924",2018-12-28,"Prajakta","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25883",2018-11-27,"Saptadeep","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-25946",2018-01-12,"Saurabh","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-26065",2018-03-16,"Nida","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26083",2018-03-24,"Yogesh","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25725",2018-07-20,"Anisha","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25630",2018-04-24,"Sahil","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25673",2018-05-28,"Arsheen","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25692",2018-06-17,"Rashmi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25992",2018-02-03,"Gaurav","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25765",2018-08-29,"Meghana","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25892",2018-12-04,"Aditi","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-26089",2018-03-26,"Kanak","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25780",2018-09-13,"Teena","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25684",2018-06-09,"Samiksha","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25739",2018-08-03,"Daksh","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25731",2018-07-26,"Akash","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25648",2018-05-04,"Aditya","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-26038",2018-02-24,"Pooja","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25700",2018-06-25,"Shubhi","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26015",2018-02-14,"Kasheen","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25704",2018-06-29,"Riya","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25811",2018-10-10,"Utsav","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25821",2018-10-16,"Ajay","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25874",2018-11-24,"Megha","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25668",2018-05-24,"Rhea","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25800",2018-10-01,"Ishit","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25928",2018-01-01,"Smriti","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-26021",2018-02-17,"Anita","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-26064",2018-03-16,"Ankita","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25882",2018-11-26,"Masurkar","Punjab","Amritsar",NA,NA,NA,NA,NA,NA
+"B-25891",2018-12-04,"Shivani","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25820",2018-10-16,"Dheeraj","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25889",2018-12-03,"Abhishek","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-25871",2018-11-21,"Gunjal","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-25637",2018-04-26,"Ashmi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25616",2018-04-15,"Kanak","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25972",2018-01-23,"Jesslyn","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25805",2018-10-05,"Ankit","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25860",2018-11-15,"Akshay","Tamil Nadu","Chennai",NA,NA,NA,NA,NA,NA
+"B-26080",2018-03-22,"Sonakshi","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25807",2018-10-07,"Vipul","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25734",2018-07-29,"Pranav","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25880",2018-11-24,"Apoorv","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-25934",2018-01-04,"Rahul","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25913",2018-12-17,"Geetanjali","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25912",2018-12-16,"Preksha","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25824",2018-10-20,"Shyam","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25711",2018-07-06,"Sakshi","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25864",2018-11-15,"Aromal","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25917",2018-12-21,"Sanjay","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26049",2018-03-05,"Lisha","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25920",2018-12-24,"Jayanti","Uttar Pradesh","Prayagraj",NA,NA,NA,NA,NA,NA
+"B-25699",2018-06-24,"Kritika","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25735",2018-07-30,"Arindam","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25701",2018-06-26,"Maithilee","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26092",2018-03-27,"Ramesh","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-26082",2018-03-23,"Jitesh","Uttar Pradesh","Lucknow",NA,NA,NA,NA,NA,NA
+"B-25818",2018-10-14,"Sandeep","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25846",2018-11-03,"Soodesh","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-26011",2018-02-12,"Bharat","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25631",2018-04-24,"Ritu","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25606",2018-04-06,"Hazel","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25746",2018-08-10,"Shivam","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-26005",2018-02-08,"Parnavi","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25844",2018-11-03,"Swati","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25869",2018-11-19,"Parakh","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-26066",2018-03-16,"Priyanka","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25865",2018-11-15,"Arun","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26039",2018-02-25,"Hemant","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25916",2018-12-20,"Utkarsh","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-26090",2018-03-27,"Sagar","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25988",2018-01-31,"Nirja","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25906",2018-12-11,"Abhijit","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-26017",2018-02-14,"Sonakshi","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25644",2018-04-30,"Mayank","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25679",2018-06-04,"Avni","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25723",2018-07-18,"Wale","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25605",2018-04-05,"Kasheen","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25792",2018-09-24,"Abhishek","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25680",2018-06-04,"Aayushi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25931",2018-01-04,"Sidharth","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25932",2018-01-04,"Bhutekar","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25990",2018-02-02,"Mugdha","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25615",2018-04-15,"Bhavna","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-26031",2018-02-22,"Deepak","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25801",2018-10-01,"Aryan","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25833",2018-10-29,"Krishna","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26077",2018-03-22,"Divsha","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25936",2018-01-05,"Nikhil","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25938",2018-01-05,"Shikhar","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25716",2018-07-11,"Surabhi","Tamil Nadu","Chennai",NA,NA,NA,NA,NA,NA
+"B-25740",2018-08-03,"Rane","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25763",2018-08-27,"Noshiba","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25872",2018-11-22,"Saurabh","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25879",2018-11-24,"Siddharth","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25926",2018-12-30,"Dipali","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26074",2018-03-21,"Bharat","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-25627",2018-04-23,"Hitika","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25940",2018-01-06,"Vivek","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-26047",2018-03-04,"Ashmi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26069",2018-03-17,"Sanskriti","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-26027",2018-02-20,"Sagar","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25963",2018-01-19,"Pratiksha","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25922",2018-12-26,"Akshata","Gujarat","Surat",NA,NA,NA,NA,NA,NA
+"B-25866",2018-11-16,"Komal","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25607",2018-04-06,"Sonakshi","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25775",2018-09-08,"Duhita","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25998",2018-02-04,"Anmol","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-26062",2018-03-15,"Tushina","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25722",2018-07-17,"Inderpreet","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25776",2018-09-09,"Mousam","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-26032",2018-02-22,"Monisha","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25705",2018-06-30,"Shweta","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25628",2018-04-24,"Pooja","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25733",2018-07-28,"Dhirajendu","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25647",2018-05-03,"Sharda","Kerala","Thiruvananthapuram",NA,NA,NA,NA,NA,NA
+"B-25790",2018-09-23,"Sajal","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25709",2018-07-01,"Aakanksha","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25911",2018-12-15,"Phalguni","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25774",2018-09-07,"Snehal","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-26042",2018-02-28,"Manish","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-25815",2018-10-10,"Harsh","Nagaland","Kohima",NA,NA,NA,NA,NA,NA
+"B-25822",2018-10-18,"Tejas","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-26075",2018-03-21,"Pearl","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25783",2018-09-15,"Shivangi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26046",2018-03-04,"Nishi","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25690",2018-06-15,"Gunjan","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-25706",2018-07-01,"Swetlana","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25736",2018-07-31,"Akshat","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25720",2018-07-15,"Namrata","Punjab","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25907",2018-12-11,"Jaydeep","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-25719",2018-07-12,"Rashmi","Madhya Pradesh","Indore",NA,NA,NA,NA,NA,NA
+"B-26013",2018-02-13,"Jahan","Madhya Pradesh","Bhopal",NA,NA,NA,NA,NA,NA
+"B-26044",2018-03-02,"Sanjay","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-25649",2018-05-05,"Rachna","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25658",2018-05-14,"Shefali","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25672",2018-05-28,"Akanksha","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25624",2018-04-22,"Vini","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25884",2018-11-28,"Sumeet","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25641",2018-04-27,"Parishi","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25841",2018-11-01,"Ashvini","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25980",2018-01-27,"Shweta","Rajasthan","Udaipur",NA,NA,NA,NA,NA,NA
+"B-26012",2018-02-13,"Pearl","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-26029",2018-02-20,"Ramesh","Gujarat","Ahmedabad",NA,NA,NA,NA,NA,NA
+"B-26071",2018-03-19,"Subhashree","Jammu and Kashmir","Kashmir",NA,NA,NA,NA,NA,NA
+"B-25646",2018-05-01,"Sonal","Bihar","Patna",NA,NA,NA,NA,NA,NA
+"B-25677",2018-06-02,"Ekta","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25759",2018-08-23,"Soumya","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-26059",2018-03-12,"Rachna","Haryana","Chandigarh",NA,NA,NA,NA,NA,NA
+"B-25632",2018-04-25,"Manish","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-26079",2018-03-22,"Hazel","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25674",2018-05-28,"Mahima","Maharashtra","Pune",NA,NA,NA,NA,NA,NA
+"B-25965",2018-01-21,"Saloni","West Bengal","Kolkata",NA,NA,NA,NA,NA,NA
+"B-25732",2018-07-27,"Anubhaw","Karnataka","Bangalore",NA,NA,NA,NA,NA,NA
+"B-25834",2018-10-29,"Ananya","Andhra Pradesh","Hyderabad",NA,NA,NA,NA,NA,NA
+"B-25784",2018-09-15,"Rohit","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25982",2018-01-29,"Hemangi","Delhi","Delhi",NA,NA,NA,NA,NA,NA
+"B-25788",2018-09-21,"Dinesh","Tamil Nadu","Chennai",NA,NA,NA,NA,NA,NA
+"B-25742",2018-08-03,"Ashwin","Goa","Goa",NA,NA,NA,NA,NA,NA
+"B-26088",2018-03-26,"Bhavna","Sikkim","Gangtok",NA,NA,NA,NA,NA,NA
+"B-25707",2018-07-01,"Shivani","Maharashtra","Mumbai",NA,NA,NA,NA,NA,NA
+"B-25758",2018-08-22,"Shubham","Himachal Pradesh","Simla",NA,NA,NA,NA,NA,NA
+"B-26095",2018-03-28,"Monisha","Rajasthan","Jaipur",NA,NA,NA,NA,NA,NA
+"B-25681",NA,NA,NA,NA,1096,658,7,"Electronics","Electronic Games","COD"
+"B-26055",NA,NA,NA,NA,5729,64,14,"Furniture","Chairs","EMI"
+"B-25955",NA,NA,NA,NA,2927,146,8,"Furniture","Bookcases","EMI"
+"B-26093",NA,NA,NA,NA,2847,712,8,"Electronics","Printers","Credit Card"
+"B-25602",NA,NA,NA,NA,2617,1151,4,"Electronics","Phones","Credit Card"
+"B-25881",NA,NA,NA,NA,2244,247,4,"Clothing","Trousers","Credit Card"
+"B-25696",NA,NA,NA,NA,275,-275,4,"Clothing","Saree","COD"
+"B-25687",NA,NA,NA,NA,387,-213,5,"Clothing","Saree","UPI"
+"B-25643",NA,NA,NA,NA,50,-44,2,"Clothing","Hankerchief","UPI"
+"B-25851",NA,NA,NA,NA,135,-54,5,"Clothing","Kurti","COD"
+"B-25703",NA,NA,NA,NA,231,-190,9,"Clothing","Hankerchief","COD"
+"B-25887",NA,NA,NA,NA,2125,-234,6,"Electronics","Printers","EMI"
+"B-25923",NA,NA,NA,NA,3873,-891,6,"Electronics","Phones","Credit Card"
+"B-25756",NA,NA,NA,NA,729,-492,5,"Furniture","Bookcases","UPI"
+"B-25761",NA,NA,NA,NA,2188,1050,5,"Furniture","Bookcases","Credit Card"
+"B-25655",NA,NA,NA,NA,6,-3,1,"Clothing","Hankerchief","UPI"
+"B-25786",NA,NA,NA,NA,1854,433,5,"Furniture","Bookcases","Credit Card"
+"B-26095",NA,NA,NA,NA,6,1,1,"Clothing","Kurti","UPI"
+"B-25853",NA,NA,NA,NA,2093,721,5,"Furniture","Chairs","Credit Card"
+"B-25735",NA,NA,NA,NA,7,-1,2,"Clothing","Skirt","UPI"
+"B-25910",NA,NA,NA,NA,1622,-624,5,"Furniture","Tables","Credit Card"
+"B-25950",NA,NA,NA,NA,1622,95,5,"Electronics","Printers","Credit Card"
+"B-25744",NA,NA,NA,NA,373,254,6,"Electronics","Printers","UPI"
+"B-25845",NA,NA,NA,NA,82,-33,4,"Clothing","Kurti","COD"
+"B-26001",NA,NA,NA,NA,8,2,2,"Clothing","Skirt","UPI"
+"B-25830",NA,NA,NA,NA,1954,782,3,"Electronics","Phones","Credit Card"
+"B-25842",NA,NA,NA,NA,1543,370,8,"Electronics","Printers","Credit Card"
+"B-25778",NA,NA,NA,NA,1506,-266,6,"Electronics","Printers","Credit Card"
+"B-25686",NA,NA,NA,NA,1829,-56,6,"Furniture","Tables","Credit Card"
+"B-25754",NA,NA,NA,NA,9,-1,3,"Clothing","Skirt","UPI"
+"B-26048",NA,NA,NA,NA,1461,202,5,"Furniture","Tables","EMI"
+"B-25816",NA,NA,NA,NA,391,113,8,"Clothing","Stole","COD"
+"B-26022",NA,NA,NA,NA,1824,1303,8,"Electronics","Phones","Credit Card"
+"B-25883",NA,NA,NA,NA,16,-15,4,"Clothing","Hankerchief","UPI"
+"B-26003",NA,NA,NA,NA,1745,122,2,"Furniture","Tables","Credit Card"
+"B-26097",NA,NA,NA,NA,663,-212,5,"Electronics","Printers","UPI"
+"B-25710",NA,NA,NA,NA,10,-1,1,"Clothing","Leggings","UPI"
+"B-25797",NA,NA,NA,NA,1630,802,5,"Furniture","Tables","EMI"
+"B-25618",NA,NA,NA,NA,12,0,2,"Clothing","Hankerchief","UPI"
+"B-25723",NA,NA,NA,NA,12,-7,2,"Clothing","Leggings","UPI"
+"B-25755",NA,NA,NA,NA,1709,564,3,"Clothing","Trousers","Credit Card"
+"B-25788",NA,NA,NA,NA,12,3,1,"Clothing","Stole","UPI"
+"B-25681",NA,NA,NA,NA,1625,-77,3,"Electronics","Phones","EMI"
+"B-25991",NA,NA,NA,NA,13,5,2,"Clothing","Hankerchief","UPI"
+"B-25779",NA,NA,NA,NA,1361,980,3,"Furniture","Tables","COD"
+"B-25909",NA,NA,NA,NA,1622,-448,3,"Electronics","Phones","EMI"
+"B-25943",NA,NA,NA,NA,1547,340,6,"Electronics","Accessories","EMI"
+"B-25935",NA,NA,NA,NA,1657,460,4,"Furniture","Chairs","Credit Card"
+"B-25613",NA,NA,NA,NA,1603,0,9,"Clothing","Saree","Credit Card"
+"B-25729",NA,NA,NA,NA,1549,-439,4,"Electronics","Phones","Credit Card"
+"B-25772",NA,NA,NA,NA,1183,106,4,"Electronics","Printers","EMI"
+"B-25655",NA,NA,NA,NA,74,-123,8,"Clothing","Skirt","UPI"
+"B-25640",NA,NA,NA,NA,1499,239,13,"Clothing","Saree","Credit Card"
+"B-25810",NA,NA,NA,NA,1120,199,6,"Clothing","Saree","EMI"
+"B-25801",NA,NA,NA,NA,15,-2,1,"Clothing","T-shirt","Debit Card"
+"B-26085",NA,NA,NA,NA,1487,624,3,"Clothing","Trousers","Credit Card"
+"B-25868",NA,NA,NA,NA,1118,206,2,"Furniture","Tables","Credit Card"
+"B-25714",NA,NA,NA,NA,11,-5,2,"Clothing","Hankerchief","COD"
+"B-25784",NA,NA,NA,NA,15,4,1,"Clothing","Hankerchief","Debit Card"
+"B-25608",NA,NA,NA,NA,1364,1864,5,"Furniture","Tables","Credit Card"
+"B-26051",NA,NA,NA,NA,1337,147,7,"Electronics","Printers","Credit Card"
+"B-25900",NA,NA,NA,NA,15,2,1,"Clothing","Leggings","Debit Card"
+"B-25760",NA,NA,NA,NA,322,-193,5,"Electronics","Printers","UPI"
+"B-25762",NA,NA,NA,NA,1316,527,7,"Electronics","Electronic Games","Credit Card"
+"B-25995",NA,NA,NA,NA,1314,342,3,"Furniture","Bookcases","Credit Card"
+"B-25965",NA,NA,NA,NA,17,7,3,"Clothing","Hankerchief","Debit Card"
+"B-25967",NA,NA,NA,NA,17,2,2,"Clothing","Skirt","Debit Card"
+"B-25674",NA,NA,NA,NA,17,-12,5,"Clothing","Skirt","Debit Card"
+"B-25929",NA,NA,NA,NA,1308,536,3,"Furniture","Bookcases","Credit Card"
+"B-25777",NA,NA,NA,NA,1076,-38,4,"Electronics","Printers","Credit Card"
+"B-26006",NA,NA,NA,NA,1301,573,5,"Electronics","Accessories","Credit Card"
+"B-25697",NA,NA,NA,NA,1300,-16,8,"Electronics","Printers","Credit Card"
+"B-25667",NA,NA,NA,NA,11,-2,4,"Clothing","Hankerchief","COD"
+"B-25836",NA,NA,NA,NA,1298,65,9,"Electronics","Printers","EMI"
+"B-25984",NA,NA,NA,NA,304,97,6,"Clothing","Stole","UPI"
+"B-25728",NA,NA,NA,NA,1055,264,4,"Electronics","Printers","EMI"
+"B-25757",NA,NA,NA,NA,17,-13,4,"Clothing","Skirt","Debit Card"
+"B-25957",NA,NA,NA,NA,147,73,3,"Clothing","Stole","COD"
+"B-26061",NA,NA,NA,NA,965,-68,3,"Electronics","Printers","COD"
+"B-25735",NA,NA,NA,NA,12,-2,3,"Clothing","Hankerchief","COD"
+"B-25616",NA,NA,NA,NA,14,-2,3,"Clothing","Hankerchief","UPI"
+"B-25666",NA,NA,NA,NA,934,-916,7,"Electronics","Electronic Games","COD"
+"B-25675",NA,NA,NA,NA,929,-93,9,"Clothing","Saree","COD"
+"B-26079",NA,NA,NA,NA,18,3,2,"Clothing","Hankerchief","Debit Card"
+"B-25850",NA,NA,NA,NA,916,192,11,"Electronics","Phones","COD"
+"B-25693",NA,NA,NA,NA,76,-72,9,"Clothing","Hankerchief","COD"
+"B-25852",NA,NA,NA,NA,869,67,4,"Furniture","Tables","COD"
+"B-25860",NA,NA,NA,NA,112,24,3,"Clothing","Kurti","COD"
+"B-25853",NA,NA,NA,NA,39,16,6,"Clothing","Skirt","UPI"
+"B-25898",NA,NA,NA,NA,857,-274,2,"Furniture","Tables","COD"
+"B-26100",NA,NA,NA,NA,828,230,2,"Furniture","Chairs","COD"
+"B-25653",NA,NA,NA,NA,1279,-640,8,"Electronics","Printers","EMI"
+"B-25839",NA,NA,NA,NA,1250,486,7,"Clothing","Saree","EMI"
+"B-25651",NA,NA,NA,NA,823,-18,7,"Furniture","Chairs","COD"
+"B-25957",NA,NA,NA,NA,1157,-13,9,"Furniture","Bookcases","Credit Card"
+"B-25704",NA,NA,NA,NA,126,-63,3,"Electronics","Accessories","UPI"
+"B-25730",NA,NA,NA,NA,1145,-706,3,"Electronics","Phones","Credit Card"
+"B-26052",NA,NA,NA,NA,774,170,3,"Electronics","Accessories","COD"
+"B-25656",NA,NA,NA,NA,24,-1,2,"Clothing","Hankerchief","COD"
+"B-26033",NA,NA,NA,NA,774,170,3,"Electronics","Accessories","COD"
+"B-25850",NA,NA,NA,NA,93,-1,2,"Clothing","Hankerchief","COD"
+"B-25945",NA,NA,NA,NA,765,-36,3,"Electronics","Electronic Games","COD"
+"B-26086",NA,NA,NA,NA,762,101,6,"Electronics","Printers","COD"
+"B-25752",NA,NA,NA,NA,761,266,9,"Electronics","Electronic Games","COD"
+"B-26098",NA,NA,NA,NA,96,-48,5,"Clothing","Leggings","UPI"
+"B-26067",NA,NA,NA,NA,1137,-14,7,"Electronics","Printers","EMI"
+"B-25730",NA,NA,NA,NA,18,8,2,"Clothing","Hankerchief","Debit Card"
+"B-25986",NA,NA,NA,NA,749,-307,7,"Furniture","Furnishings","COD"
+"B-26067",NA,NA,NA,NA,1120,199,6,"Clothing","Saree","EMI"
+"B-25953",NA,NA,NA,NA,744,119,6,"Electronics","Printers","COD"
+"B-25952",NA,NA,NA,NA,14,0,4,"Clothing","Hankerchief","UPI"
+"B-25903",NA,NA,NA,NA,19,8,2,"Clothing","Hankerchief","Debit Card"
+"B-25650",NA,NA,NA,NA,512,-225,5,"Clothing","Saree","COD"
+"B-25970",NA,NA,NA,NA,742,198,2,"Furniture","Bookcases","COD"
+"B-26062",NA,NA,NA,NA,44,-40,3,"Clothing","Stole","COD"
+"B-25643",NA,NA,NA,NA,1061,-36,8,"Furniture","Bookcases","EMI"
+"B-25632",NA,NA,NA,NA,19,-2,2,"Clothing","Leggings","Debit Card"
+"B-25821",NA,NA,NA,NA,17,0,1,"Clothing","Hankerchief","COD"
+"B-25878",NA,NA,NA,NA,741,267,5,"Furniture","Bookcases","COD"
+"B-25752",NA,NA,NA,NA,735,-235,6,"Electronics","Printers","COD"
+"B-25750",NA,NA,NA,NA,19,-1,1,"Clothing","Shirt","Debit Card"
+"B-25657",NA,NA,NA,NA,1021,-48,4,"Electronics","Electronic Games","EMI"
+"B-25787",NA,NA,NA,NA,556,-209,7,"Clothing","Saree","COD"
+"B-25808",NA,NA,NA,NA,63,-17,6,"Clothing","Leggings","COD"
+"B-25885",NA,NA,NA,NA,734,248,2,"Furniture","Chairs","COD"
+"B-25778",NA,NA,NA,NA,933,166,5,"Clothing","Saree","Credit Card"
+"B-25759",NA,NA,NA,NA,20,-9,6,"Clothing","Hankerchief","Debit Card"
+"B-25747",NA,NA,NA,NA,877,395,2,"Furniture","Bookcases","Credit Card"
+"B-25878",NA,NA,NA,NA,719,303,6,"Furniture","Chairs","COD"
+"B-25603",NA,NA,NA,NA,12,1,2,"Clothing","Hankerchief","COD"
+"B-25691",NA,NA,NA,NA,714,56,4,"Clothing","Saree","COD"
+"B-25607",NA,NA,NA,NA,50,-15,4,"Clothing","Leggings","COD"
+"B-25708",NA,NA,NA,NA,709,-100,5,"Electronics","Phones","COD"
+"B-26021",NA,NA,NA,NA,21,-12,3,"Clothing","Hankerchief","Debit Card"
+"B-25831",NA,NA,NA,NA,693,254,6,"Clothing","Saree","COD"
+"B-25850",NA,NA,NA,NA,24,1,4,"Clothing","Hankerchief","COD"
+"B-25670",NA,NA,NA,NA,24,1,2,"Clothing","Hankerchief","UPI"
+"B-25852",NA,NA,NA,NA,24,1,2,"Clothing","Hankerchief","COD"
+"B-26029",NA,NA,NA,NA,21,10,1,"Clothing","T-shirt","Debit Card"
+"B-25959",NA,NA,NA,NA,681,259,4,"Furniture","Chairs","COD"
+"B-25676",NA,NA,NA,NA,674,-187,2,"Furniture","Tables","COD"
+"B-26097",NA,NA,NA,NA,671,-309,5,"Electronics","Electronic Games","COD"
+"B-25888",NA,NA,NA,NA,646,-213,3,"Electronics","Electronic Games","COD"
+"B-25911",NA,NA,NA,NA,40,15,1,"Clothing","Kurti","COD"
+"B-25662",NA,NA,NA,NA,24,-2,2,"Clothing","T-shirt","COD"
+"B-25950",NA,NA,NA,NA,644,167,2,"Electronics","Printers","COD"
+"B-25847",NA,NA,NA,NA,643,225,2,"Electronics","Printers","COD"
+"B-25796",NA,NA,NA,NA,632,-316,6,"Clothing","Saree","COD"
+"B-25693",NA,NA,NA,NA,632,316,6,"Clothing","Saree","COD"
+"B-25993",NA,NA,NA,NA,610,208,3,"Electronics","Printers","COD"
+"B-26052",NA,NA,NA,NA,78,-28,6,"Clothing","Kurti","UPI"
+"B-25930",NA,NA,NA,NA,595,119,4,"Furniture","Bookcases","COD"
+"B-25785",NA,NA,NA,NA,595,292,3,"Clothing","Saree","COD"
+"B-26093",NA,NA,NA,NA,852,51,5,"Furniture","Bookcases","Credit Card"
+"B-26053",NA,NA,NA,NA,594,89,3,"Furniture","Bookcases","COD"
+"B-26019",NA,NA,NA,NA,585,175,13,"Clothing","T-shirt","COD"
+"B-26070",NA,NA,NA,NA,582,262,5,"Furniture","Furnishings","COD"
+"B-25870",NA,NA,NA,NA,845,84,7,"Clothing","Saree","Credit Card"
+"B-25855",NA,NA,NA,NA,829,19,4,"Electronics","Printers","Credit Card"
+"B-25602",NA,NA,NA,NA,561,212,3,"Clothing","Saree","COD"
+"B-25728",NA,NA,NA,NA,771,-424,2,"Electronics","Phones","Credit Card"
+"B-25803",NA,NA,NA,NA,765,8,6,"Clothing","Saree","EMI"
+"B-25996",NA,NA,NA,NA,31,2,2,"Clothing","Hankerchief","COD"
+"B-26078",NA,NA,NA,NA,557,-111,2,"Electronics","Electronic Games","COD"
+"B-25803",NA,NA,NA,NA,757,371,2,"Electronics","Printers","Credit Card"
+"B-25682",NA,NA,NA,NA,545,-73,11,"Electronics","Phones","COD"
+"B-25749",NA,NA,NA,NA,1052,-82,3,"Furniture","Bookcases","UPI"
+"B-25962",NA,NA,NA,NA,544,-152,3,"Furniture","Bookcases","COD"
+"B-25899",NA,NA,NA,NA,22,9,2,"Clothing","Leggings","Debit Card"
+"B-25845",NA,NA,NA,NA,757,371,2,"Electronics","Printers","Credit Card"
+"B-25951",NA,NA,NA,NA,742,198,2,"Furniture","Bookcases","Credit Card"
+"B-25828",NA,NA,NA,NA,537,107,3,"Clothing","Saree","COD"
+"B-25803",NA,NA,NA,NA,536,91,1,"Clothing","Trousers","COD"
+"B-25656",NA,NA,NA,NA,6,3,1,"Clothing","Hankerchief","COD"
+"B-25681",NA,NA,NA,NA,523,204,7,"Clothing","Trousers","COD"
+"B-25658",NA,NA,NA,NA,27,9,2,"Clothing","T-shirt","UPI"
+"B-25698",NA,NA,NA,NA,516,392,8,"Furniture","Chairs","COD"
+"B-25832",NA,NA,NA,NA,504,116,3,"Furniture","Bookcases","COD"
+"B-25886",NA,NA,NA,NA,502,84,4,"Electronics","Phones","COD"
+"B-25897",NA,NA,NA,NA,734,213,6,"Electronics","Electronic Games","Credit Card"
+"B-25873",NA,NA,NA,NA,42,12,2,"Clothing","Kurti","COD"
+"B-25858",NA,NA,NA,NA,29,11,4,"Clothing","Skirt","COD"
+"B-25867",NA,NA,NA,NA,240,12,6,"Clothing","Kurti","UPI"
+"B-25633",NA,NA,NA,NA,496,-79,2,"Clothing","Trousers","COD"
+"B-25609",NA,NA,NA,NA,485,29,4,"Electronics","Electronic Games","COD"
+"B-25896",NA,NA,NA,NA,31,-11,3,"Clothing","Skirt","UPI"
+"B-26000",NA,NA,NA,NA,676,151,3,"Electronics","Printers","Credit Card"
+"B-25959",NA,NA,NA,NA,23,8,2,"Clothing","Hankerchief","Debit Card"
+"B-25940",NA,NA,NA,NA,13,3,2,"Clothing","Hankerchief","COD"
+"B-26087",NA,NA,NA,NA,180,0,8,"Clothing","Stole","COD"
+"B-26055",NA,NA,NA,NA,671,114,9,"Electronics","Phones","Credit Card"
+"B-25980",NA,NA,NA,NA,22,11,3,"Clothing","Kurti","COD"
+"B-25653",NA,NA,NA,NA,668,-31,3,"Electronics","Printers","Credit Card"
+"B-26052",NA,NA,NA,NA,145,0,3,"Clothing","Saree","UPI"
+"B-25877",NA,NA,NA,NA,24,8,2,"Clothing","Skirt","Debit Card"
+"B-25608",NA,NA,NA,NA,476,0,3,"Furniture","Chairs","COD"
+"B-25897",NA,NA,NA,NA,24,11,5,"Clothing","Hankerchief","Debit Card"
+"B-25881",NA,NA,NA,NA,37,3,3,"Clothing","Hankerchief","COD"
+"B-25905",NA,NA,NA,NA,152,50,6,"Clothing","Stole","UPI"
+"B-25818",NA,NA,NA,NA,32,11,2,"Clothing","Leggings","UPI"
+"B-25835",NA,NA,NA,NA,52,11,5,"Clothing","Leggings","COD"
+"B-26081",NA,NA,NA,NA,24,11,3,"Clothing","Hankerchief","Debit Card"
+"B-25730",NA,NA,NA,NA,473,42,4,"Furniture","Chairs","COD"
+"B-25837",NA,NA,NA,NA,263,50,5,"Clothing","Stole","COD"
+"B-25893",NA,NA,NA,NA,61,11,3,"Clothing","Kurti","COD"
+"B-25689",NA,NA,NA,NA,469,-459,3,"Electronics","Electronic Games","COD"
+"B-26028",NA,NA,NA,NA,1272,547,2,"Electronics","Phones","COD"
+"B-26081",NA,NA,NA,NA,169,0,3,"Electronics","Accessories","COD"
+"B-25903",NA,NA,NA,NA,25,11,3,"Clothing","Leggings","Debit Card"
+"B-25651",NA,NA,NA,NA,457,-41,4,"Clothing","Saree","COD"
+"B-25903",NA,NA,NA,NA,455,77,8,"Electronics","Accessories","COD"
+"B-26086",NA,NA,NA,NA,25,2,2,"Clothing","Hankerchief","Debit Card"
+"B-25654",NA,NA,NA,NA,450,-90,3,"Electronics","Printers","COD"
+"B-25720",NA,NA,NA,NA,30,-35,1,"Furniture","Chairs","COD"
+"B-26057",NA,NA,NA,NA,659,-37,2,"Furniture","Bookcases","Credit Card"
+"B-25798",NA,NA,NA,NA,448,148,2,"Electronics","Printers","COD"
+"B-25961",NA,NA,NA,NA,446,53,3,"Electronics","Printers","COD"
+"B-25701",NA,NA,NA,NA,98,-45,2,"Furniture","Chairs","UPI"
+"B-26055",NA,NA,NA,NA,443,11,1,"Clothing","Saree","COD"
+"B-25653",NA,NA,NA,NA,427,-50,7,"Electronics","Phones","COD"
+"B-25670",NA,NA,NA,NA,656,-36,2,"Furniture","Bookcases","Credit Card"
+"B-26056",NA,NA,NA,NA,424,161,2,"Clothing","Saree","COD"
+"B-26061",NA,NA,NA,NA,27,8,2,"Clothing","T-shirt","Debit Card"
+"B-25602",NA,NA,NA,NA,424,-272,5,"Electronics","Phones","COD"
+"B-26016",NA,NA,NA,NA,202,4,4,"Clothing","Hankerchief","COD"
+"B-25873",NA,NA,NA,NA,1275,357,2,"Electronics","Phones","UPI"
+"B-25761",NA,NA,NA,NA,418,70,7,"Electronics","Phones","COD"
+"B-25819",NA,NA,NA,NA,417,49,3,"Electronics","Electronic Games","COD"
+"B-25853",NA,NA,NA,NA,199,48,4,"Clothing","Stole","UPI"
+"B-25662",NA,NA,NA,NA,385,-77,11,"Furniture","Furnishings","UPI"
+"B-25993",NA,NA,NA,NA,414,199,3,"Electronics","Phones","COD"
+"B-25703",NA,NA,NA,NA,97,-45,4,"Clothing","Saree","COD"
+"B-25848",NA,NA,NA,NA,648,50,6,"Electronics","Electronic Games","Credit Card"
+"B-25678",NA,NA,NA,NA,27,-25,2,"Clothing","Shirt","Debit Card"
+"B-25925",NA,NA,NA,NA,27,12,1,"Clothing","Stole","Debit Card"
+"B-25977",NA,NA,NA,NA,27,1,1,"Clothing","Stole","UPI"
+"B-25797",NA,NA,NA,NA,413,-314,9,"Furniture","Chairs","COD"
+"B-26067",NA,NA,NA,NA,53,2,4,"Clothing","Hankerchief","COD"
+"B-25810",NA,NA,NA,NA,29,8,5,"Clothing","Hankerchief","UPI"
+"B-25648",NA,NA,NA,NA,30,13,1,"Clothing","T-shirt","UPI"
+"B-25933",NA,NA,NA,NA,412,412,6,"Clothing","Saree","COD"
+"B-25942",NA,NA,NA,NA,646,-23,2,"Electronics","Printers","Credit Card"
+"B-25656",NA,NA,NA,NA,30,-5,5,"Clothing","Stole","UPI"
+"B-26067",NA,NA,NA,NA,618,27,4,"Furniture","Bookcases","Credit Card"
+"B-25673",NA,NA,NA,NA,143,-124,5,"Clothing","Saree","UPI"
+"B-25797",NA,NA,NA,NA,31,1,2,"Clothing","Hankerchief","UPI"
+"B-26098",NA,NA,NA,NA,409,86,3,"Clothing","Saree","COD"
+"B-25656",NA,NA,NA,NA,406,126,2,"Clothing","Saree","COD"
+"B-25791",NA,NA,NA,NA,565,66,7,"Clothing","Saree","Credit Card"
+"B-26053",NA,NA,NA,NA,85,2,6,"Clothing","Stole","COD"
+"B-25983",NA,NA,NA,NA,561,118,5,"Furniture","Bookcases","Credit Card"
+"B-25743",NA,NA,NA,NA,503,-56,2,"Clothing","Trousers","COD"
+"B-25867",NA,NA,NA,NA,31,14,3,"Clothing","Stole","UPI"
+"B-25973",NA,NA,NA,NA,398,111,8,"Clothing","Hankerchief","COD"
+"B-25895",NA,NA,NA,NA,388,93,2,"Furniture","Bookcases","COD"
+"B-26003",NA,NA,NA,NA,498,-116,4,"Clothing","Saree","UPI"
+"B-25717",NA,NA,NA,NA,561,212,3,"Clothing","Saree","Credit Card"
+"B-26064",NA,NA,NA,NA,61,3,4,"Clothing","Hankerchief","COD"
+"B-25630",NA,NA,NA,NA,34,-22,4,"Clothing","T-shirt","COD"
+"B-26050",NA,NA,NA,NA,32,6,3,"Clothing","Shirt","UPI"
+"B-25786",NA,NA,NA,NA,623,-192,3,"Furniture","Tables","UPI"
+"B-26035",NA,NA,NA,NA,520,151,3,"Electronics","Phones","Credit Card"
+"B-25693",NA,NA,NA,NA,32,-16,6,"Clothing","Saree","UPI"
+"B-25703",NA,NA,NA,NA,32,-5,5,"Clothing","Hankerchief","UPI"
+"B-25966",NA,NA,NA,NA,510,234,6,"Electronics","Electronic Games","EMI"
+"B-26060",NA,NA,NA,NA,382,68,3,"Clothing","Saree","COD"
+"B-25898",NA,NA,NA,NA,33,13,3,"Clothing","Leggings","UPI"
+"B-25686",NA,NA,NA,NA,381,-13,2,"Clothing","Saree","COD"
+"B-26051",NA,NA,NA,NA,490,88,2,"Electronics","Accessories","EMI"
+"B-25854",NA,NA,NA,NA,381,144,2,"Clothing","Saree","COD"
+"B-26050",NA,NA,NA,NA,487,143,4,"Electronics","Phones","EMI"
+"B-25961",NA,NA,NA,NA,366,84,3,"Furniture","Bookcases","COD"
+"B-25701",NA,NA,NA,NA,33,-29,3,"Clothing","Shirt","UPI"
+"B-25970",NA,NA,NA,NA,365,107,3,"Electronics","Phones","COD"
+"B-25933",NA,NA,NA,NA,207,-100,2,"Clothing","Saree","UPI"
+"B-26081",NA,NA,NA,NA,359,-338,5,"Furniture","Bookcases","COD"
+"B-25650",NA,NA,NA,NA,351,-47,8,"Electronics","Phones","COD"
+"B-25850",NA,NA,NA,NA,485,199,4,"Clothing","Saree","EMI"
+"B-25643",NA,NA,NA,NA,37,-23,4,"Clothing","Shirt","UPI"
+"B-26100",NA,NA,NA,NA,34,10,2,"Clothing","T-shirt","Debit Card"
+"B-25964",NA,NA,NA,NA,346,108,3,"Furniture","Chairs","COD"
+"B-25676",NA,NA,NA,NA,342,-103,4,"Electronics","Electronic Games","COD"
+"B-25628",NA,NA,NA,NA,35,-8,2,"Furniture","Furnishings","Debit Card"
+"B-25891",NA,NA,NA,NA,121,41,4,"Clothing","Stole","UPI"
+"B-25903",NA,NA,NA,NA,336,57,2,"Electronics","Phones","COD"
+"B-25851",NA,NA,NA,NA,336,71,3,"Furniture","Bookcases","COD"
+"B-26089",NA,NA,NA,NA,27,4,1,"Clothing","Hankerchief","COD"
+"B-25996",NA,NA,NA,NA,333,50,2,"Electronics","Phones","COD"
+"B-25881",NA,NA,NA,NA,36,7,3,"Clothing","Leggings","Debit Card"
+"B-25621",NA,NA,NA,NA,333,-15,3,"Electronics","Phones","COD"
+"B-25727",NA,NA,NA,NA,327,114,4,"Clothing","Trousers","COD"
+"B-25843",NA,NA,NA,NA,18,6,3,"Clothing","Hankerchief","UPI"
+"B-26050",NA,NA,NA,NA,325,32,7,"Clothing","T-shirt","COD"
+"B-25741",NA,NA,NA,NA,482,-6,7,"Electronics","Electronic Games","EMI"
+"B-25756",NA,NA,NA,NA,465,-33,4,"Electronics","Phones","EMI"
+"B-25787",NA,NA,NA,NA,40,-12,3,"Clothing","Shirt","COD"
+"B-25603",NA,NA,NA,NA,107,36,6,"Clothing","Stole","COD"
+"B-25655",NA,NA,NA,NA,312,-312,7,"Furniture","Chairs","COD"
+"B-26096",NA,NA,NA,NA,451,25,3,"Electronics","Phones","EMI"
+"B-25962",NA,NA,NA,NA,312,62,1,"Electronics","Electronic Games","COD"
+"B-26007",NA,NA,NA,NA,311,72,2,"Furniture","Bookcases","COD"
+"B-26088",NA,NA,NA,NA,11,5,2,"Clothing","Hankerchief","UPI"
+"B-25673",NA,NA,NA,NA,37,-5,3,"Clothing","T-shirt","Debit Card"
+"B-25664",NA,NA,NA,NA,444,-200,4,"Electronics","Phones","EMI"
+"B-25642",NA,NA,NA,NA,434,26,11,"Clothing","Shirt","Credit Card"
+"B-25987",NA,NA,NA,NA,299,0,6,"Clothing","Stole","COD"
+"B-25903",NA,NA,NA,NA,37,17,3,"Clothing","Hankerchief","Debit Card"
+"B-25770",NA,NA,NA,NA,299,113,2,"Furniture","Bookcases","COD"
+"B-25840",NA,NA,NA,NA,298,74,2,"Furniture","Bookcases","COD"
+"B-25846",NA,NA,NA,NA,94,7,7,"Clothing","Leggings","UPI"
+"B-25745",NA,NA,NA,NA,296,225,11,"Clothing","Saree","COD"
+"B-26073",NA,NA,NA,NA,37,17,3,"Clothing","Hankerchief","Debit Card"
+"B-26030",NA,NA,NA,NA,291,93,2,"Electronics","Printers","COD"
+"B-25678",NA,NA,NA,NA,327,-39,1,"Electronics","Phones","COD"
+"B-26035",NA,NA,NA,NA,291,119,11,"Clothing","Saree","COD"
+"B-25896",NA,NA,NA,NA,287,-66,6,"Clothing","Kurti","COD"
+"B-25989",NA,NA,NA,NA,42,15,1,"Electronics","Accessories","UPI"
+"B-26016",NA,NA,NA,NA,429,61,3,"Electronics","Electronic Games","Credit Card"
+"B-26009",NA,NA,NA,NA,285,128,2,"Electronics","Printers","COD"
+"B-25915",NA,NA,NA,NA,277,3,1,"Electronics","Electronic Games","COD"
+"B-25845",NA,NA,NA,NA,274,-7,4,"Electronics","Phones","COD"
+"B-25645",NA,NA,NA,NA,273,-87,4,"Electronics","Phones","COD"
+"B-25803",NA,NA,NA,NA,269,91,1,"Electronics","Electronic Games","COD"
+"B-26030",NA,NA,NA,NA,11,5,1,"Clothing","Skirt","COD"
+"B-25955",NA,NA,NA,NA,39,2,2,"Clothing","Saree","Debit Card"
+"B-26096",NA,NA,NA,NA,264,-26,3,"Clothing","Trousers","COD"
+"B-25635",NA,NA,NA,NA,40,16,3,"Clothing","Hankerchief","Debit Card"
+"B-26038",NA,NA,NA,NA,41,19,2,"Clothing","T-shirt","Debit Card"
+"B-25791",NA,NA,NA,NA,253,-63,2,"Clothing","Saree","UPI"
+"B-26014",NA,NA,NA,NA,406,97,7,"Furniture","Chairs","Credit Card"
+"B-25751",NA,NA,NA,NA,32,7,3,"Clothing","Hankerchief","COD"
+"B-25962",NA,NA,NA,NA,260,68,2,"Electronics","Printers","COD"
+"B-26025",NA,NA,NA,NA,41,19,5,"Clothing","Hankerchief","Debit Card"
+"B-26048",NA,NA,NA,NA,401,13,6,"Furniture","Chairs","Credit Card"
+"B-25635",NA,NA,NA,NA,382,30,3,"Clothing","Saree","Credit Card"
+"B-25981",NA,NA,NA,NA,867,251,5,"Electronics","Phones","COD"
+"B-25610",NA,NA,NA,NA,43,0,3,"Clothing","Saree","Debit Card"
+"B-25733",NA,NA,NA,NA,43,-43,7,"Clothing","Stole","Debit Card"
+"B-25977",NA,NA,NA,NA,74,29,3,"Clothing","Stole","COD"
+"B-25655",NA,NA,NA,NA,44,-26,3,"Clothing","Hankerchief","Debit Card"
+"B-25612",NA,NA,NA,NA,259,-55,2,"Furniture","Chairs","COD"
+"B-25608",NA,NA,NA,NA,257,23,5,"Clothing","Hankerchief","COD"
+"B-25752",NA,NA,NA,NA,76,27,5,"Clothing","Stole","COD"
+"B-25700",NA,NA,NA,NA,44,-32,3,"Clothing","Stole","Debit Card"
+"B-25856",NA,NA,NA,NA,257,3,2,"Clothing","Saree","COD"
+"B-26026",NA,NA,NA,NA,255,76,9,"Clothing","Hankerchief","COD"
+"B-25861",NA,NA,NA,NA,44,14,3,"Clothing","Hankerchief","Debit Card"
+"B-25673",NA,NA,NA,NA,45,-2,4,"Clothing","Shirt","COD"
+"B-25681",NA,NA,NA,NA,44,-3,1,"Clothing","Saree","Debit Card"
+"B-26051",NA,NA,NA,NA,382,119,2,"Clothing","Saree","Credit Card"
+"B-25951",NA,NA,NA,NA,250,100,3,"Clothing","Trousers","COD"
+"B-25799",NA,NA,NA,NA,45,-15,2,"Furniture","Chairs","COD"
+"B-26053",NA,NA,NA,NA,246,61,2,"Furniture","Bookcases","COD"
+"B-26030",NA,NA,NA,NA,50,25,5,"Clothing","Stole","COD"
+"B-26054",NA,NA,NA,NA,246,98,5,"Clothing","Hankerchief","COD"
+"B-25696",NA,NA,NA,NA,44,99,3,"Clothing","Kurti","Debit Card"
+"B-25660",NA,NA,NA,NA,245,-78,3,"Clothing","Saree","COD"
+"B-25858",NA,NA,NA,NA,245,30,2,"Clothing","Saree","COD"
+"B-26045",NA,NA,NA,NA,376,0,7,"Clothing","Stole","Credit Card"
+"B-25850",NA,NA,NA,NA,45,1,3,"Clothing","T-shirt","Debit Card"
+"B-25781",NA,NA,NA,NA,45,-28,2,"Clothing","Stole","Debit Card"
+"B-25918",NA,NA,NA,NA,244,-122,5,"Furniture","Furnishings","COD"
+"B-25971",NA,NA,NA,NA,244,83,2,"Furniture","Bookcases","COD"
+"B-25870",NA,NA,NA,NA,10,4,1,"Clothing","Kurti","UPI"
+"B-25770",NA,NA,NA,NA,375,180,3,"Furniture","Bookcases","Credit Card"
+"B-25757",NA,NA,NA,NA,46,14,5,"Clothing","Skirt","Debit Card"
+"B-25699",NA,NA,NA,NA,49,-31,2,"Clothing","Stole","UPI"
+"B-25776",NA,NA,NA,NA,47,-20,2,"Clothing","Kurti","Debit Card"
+"B-25893",NA,NA,NA,NA,355,-114,7,"Clothing","Stole","Credit Card"
+"B-25985",NA,NA,NA,NA,32,8,5,"Clothing","Hankerchief","UPI"
+"B-25681",NA,NA,NA,NA,243,-14,2,"Furniture","Chairs","COD"
+"B-26063",NA,NA,NA,NA,241,-77,4,"Electronics","Electronic Games","COD"
+"B-26032",NA,NA,NA,NA,47,15,5,"Clothing","Saree","Debit Card"
+"B-26001",NA,NA,NA,NA,50,-10,6,"Clothing","Skirt","Debit Card"
+"B-26056",NA,NA,NA,NA,15,6,2,"Clothing","Hankerchief","COD"
+"B-25850",NA,NA,NA,NA,148,24,3,"Clothing","Stole","COD"
+"B-25767",NA,NA,NA,NA,299,-28,3,"Electronics","Electronic Games","UPI"
+"B-25693",NA,NA,NA,NA,68,-30,1,"Electronics","Phones","UPI"
+"B-25850",NA,NA,NA,NA,52,18,5,"Clothing","Leggings","Debit Card"
+"B-25796",NA,NA,NA,NA,239,-162,5,"Furniture","Chairs","COD"
+"B-26053",NA,NA,NA,NA,27,6,3,"Clothing","Skirt","COD"
+"B-25650",NA,NA,NA,NA,238,20,2,"Clothing","Saree","COD"
+"B-25961",NA,NA,NA,NA,48,16,3,"Clothing","Shirt","COD"
+"B-26023",NA,NA,NA,NA,66,22,3,"Clothing","Stole","UPI"
+"B-25809",NA,NA,NA,NA,53,24,1,"Clothing","Hankerchief","Debit Card"
+"B-25621",NA,NA,NA,NA,233,-10,5,"Electronics","Electronic Games","COD"
+"B-25854",NA,NA,NA,NA,53,-2,3,"Clothing","Saree","Debit Card"
+"B-26057",NA,NA,NA,NA,54,8,4,"Clothing","T-shirt","Debit Card"
+"B-25688",NA,NA,NA,NA,352,-345,5,"Clothing","Saree","Credit Card"
+"B-25885",NA,NA,NA,NA,349,0,7,"Clothing","Stole","Credit Card"
+"B-25753",NA,NA,NA,NA,341,-85,6,"Clothing","Trousers","Credit Card"
+"B-25981",NA,NA,NA,NA,54,12,3,"Clothing","Saree","Debit Card"
+"B-26055",NA,NA,NA,NA,57,7,2,"Clothing","Shirt","UPI"
+"B-25714",NA,NA,NA,NA,340,20,7,"Clothing","Shirt","Credit Card"
+"B-26055",NA,NA,NA,NA,227,48,5,"Clothing","Stole","COD"
+"B-25989",NA,NA,NA,NA,330,81,1,"Furniture","Bookcases","Credit Card"
+"B-25710",NA,NA,NA,NA,216,-38,6,"Furniture","Furnishings","UPI"
+"B-25773",NA,NA,NA,NA,224,-143,3,"Furniture","Chairs","COD"
+"B-25661",NA,NA,NA,NA,55,-33,2,"Furniture","Chairs","Debit Card"
+"B-26021",NA,NA,NA,NA,49,21,1,"Clothing","Stole","UPI"
+"B-26057",NA,NA,NA,NA,224,87,3,"Clothing","Trousers","COD"
+"B-25858",NA,NA,NA,NA,223,27,2,"Furniture","Bookcases","COD"
+"B-25857",NA,NA,NA,NA,324,39,8,"Electronics","Accessories","Credit Card"
+"B-25656",NA,NA,NA,NA,56,18,2,"Clothing","Hankerchief","Debit Card"
+"B-25999",NA,NA,NA,NA,223,62,7,"Clothing","Shirt","COD"
+"B-25856",NA,NA,NA,NA,10,2,2,"Clothing","Skirt","COD"
+"B-25926",NA,NA,NA,NA,57,6,5,"Clothing","Leggings","Debit Card"
+"B-25728",NA,NA,NA,NA,322,-113,4,"Clothing","Saree","Credit Card"
+"B-26076",NA,NA,NA,NA,219,4,2,"Clothing","Saree","COD"
+"B-25913",NA,NA,NA,NA,103,21,7,"Clothing","Stole","UPI"
+"B-25703",NA,NA,NA,NA,47,-27,4,"Clothing","Saree","COD"
+"B-25858",NA,NA,NA,NA,219,0,1,"Clothing","Saree","COD"
+"B-25727",NA,NA,NA,NA,57,-48,6,"Clothing","Leggings","Debit Card"
+"B-26020",NA,NA,NA,NA,319,102,6,"Electronics","Accessories","Credit Card"
+"B-26003",NA,NA,NA,NA,315,-8,3,"Furniture","Chairs","Credit Card"
+"B-25925",NA,NA,NA,NA,314,-41,3,"Electronics","Electronic Games","Credit Card"
+"B-26087",NA,NA,NA,NA,311,40,1,"Electronics","Electronic Games","EMI"
+"B-25810",NA,NA,NA,NA,307,74,3,"Electronics","Accessories","EMI"
+"B-25858",NA,NA,NA,NA,294,109,7,"Electronics","Accessories","EMI"
+"B-25861",NA,NA,NA,NA,216,-83,3,"Electronics","Electronic Games","COD"
+"B-25661",NA,NA,NA,NA,58,-42,2,"Furniture","Chairs","Debit Card"
+"B-25943",NA,NA,NA,NA,48,20,4,"Clothing","Stole","UPI"
+"B-25955",NA,NA,NA,NA,54,14,3,"Clothing","T-shirt","UPI"
+"B-26051",NA,NA,NA,NA,216,50,4,"Clothing","Stole","COD"
+"B-25999",NA,NA,NA,NA,215,-30,2,"Clothing","Saree","COD"
+"B-26083",NA,NA,NA,NA,43,8,3,"Clothing","Leggings","COD"
+"B-25950",NA,NA,NA,NA,136,-33,5,"Clothing","Saree","COD"
+"B-25625",NA,NA,NA,NA,59,-30,3,"Clothing","Leggings","Debit Card"
+"B-26055",NA,NA,NA,NA,213,4,14,"Clothing","Shirt","COD"
+"B-26023",NA,NA,NA,NA,59,21,2,"Clothing","Stole","Debit Card"
+"B-26010",NA,NA,NA,NA,55,3,3,"Clothing","T-shirt","COD"
+"B-25955",NA,NA,NA,NA,294,62,9,"Clothing","T-shirt","EMI"
+"B-25900",NA,NA,NA,NA,210,62,2,"Electronics","Phones","COD"
+"B-26089",NA,NA,NA,NA,59,24,6,"Clothing","Kurti","Debit Card"
+"B-25655",NA,NA,NA,NA,396,-31,9,"Clothing","Saree","COD"
+"B-25979",NA,NA,NA,NA,284,45,2,"Furniture","Bookcases","EMI"
+"B-26002",NA,NA,NA,NA,276,52,5,"Clothing","Saree","EMI"
+"B-25635",NA,NA,NA,NA,23,2,2,"Clothing","Skirt","UPI"
+"B-26084",NA,NA,NA,NA,209,-63,4,"Electronics","Electronic Games","COD"
+"B-25998",NA,NA,NA,NA,50,-28,5,"Furniture","Furnishings","COD"
+"B-25872",NA,NA,NA,NA,57,27,2,"Clothing","Shirt","COD"
+"B-25795",NA,NA,NA,NA,276,-21,2,"Electronics","Phones","EMI"
+"B-25902",NA,NA,NA,NA,268,6,2,"Furniture","Bookcases","UPI"
+"B-25650",NA,NA,NA,NA,269,111,3,"Clothing","Trousers","EMI"
+"B-25957",NA,NA,NA,NA,209,2,1,"Clothing","Saree","COD"
+"B-25793",NA,NA,NA,NA,60,-12,4,"Clothing","Hankerchief","Debit Card"
+"B-25654",NA,NA,NA,NA,269,-86,2,"Electronics","Electronic Games","EMI"
+"B-25750",NA,NA,NA,NA,208,-25,2,"Clothing","Saree","COD"
+"B-25835",NA,NA,NA,NA,27,2,2,"Clothing","Leggings","UPI"
+"B-25652",NA,NA,NA,NA,206,-206,3,"Clothing","Saree","COD"
+"B-26018",NA,NA,NA,NA,61,8,4,"Clothing","Hankerchief","Debit Card"
+"B-25750",NA,NA,NA,NA,212,-24,2,"Furniture","Chairs","COD"
+"B-25840",NA,NA,NA,NA,262,64,6,"Clothing","Saree","EMI"
+"B-25756",NA,NA,NA,NA,204,276,3,"Furniture","Bookcases","COD"
+"B-25777",NA,NA,NA,NA,59,-46,7,"Clothing","T-shirt","UPI"
+"B-25750",NA,NA,NA,NA,199,-18,2,"Clothing","Saree","COD"
+"B-25823",NA,NA,NA,NA,59,6,1,"Electronics","Accessories","UPI"
+"B-26096",NA,NA,NA,NA,45,9,3,"Clothing","Leggings","UPI"
+"B-25757",NA,NA,NA,NA,211,19,8,"Clothing","Stole","COD"
+"B-25698",NA,NA,NA,NA,65,-16,2,"Electronics","Phones","Debit Card"
+"B-25710",NA,NA,NA,NA,25,0,4,"Clothing","Skirt","UPI"
+"B-25994",NA,NA,NA,NA,196,-7,5,"Electronics","Phones","COD"
+"B-25950",NA,NA,NA,NA,261,13,6,"Clothing","Shirt","Credit Card"
+"B-25653",NA,NA,NA,NA,195,-117,5,"Electronics","Phones","COD"
+"B-25785",NA,NA,NA,NA,192,-146,3,"Clothing","Saree","COD"
+"B-25863",NA,NA,NA,NA,189,87,7,"Clothing","Stole","COD"
+"B-25959",NA,NA,NA,NA,32,2,2,"Clothing","Kurti","UPI"
+"B-25991",NA,NA,NA,NA,188,13,7,"Clothing","Shirt","COD"
+"B-25680",NA,NA,NA,NA,73,-25,3,"Clothing","Saree","COD"
+"B-25910",NA,NA,NA,NA,259,47,5,"Clothing","Hankerchief","Credit Card"
+"B-25737",NA,NA,NA,NA,187,-15,3,"Clothing","Trousers","COD"
+"B-25853",NA,NA,NA,NA,26,11,2,"Clothing","Hankerchief","UPI"
+"B-26097",NA,NA,NA,NA,185,-26,6,"Furniture","Chairs","COD"
+"B-25875",NA,NA,NA,NA,248,8,2,"Clothing","Saree","Credit Card"
+"B-26031",NA,NA,NA,NA,67,9,4,"Clothing","Leggings","Debit Card"
+"B-25773",NA,NA,NA,NA,248,-70,3,"Furniture","Chairs","Credit Card"
+"B-25840",NA,NA,NA,NA,246,61,2,"Furniture","Bookcases","Credit Card"
+"B-25908",NA,NA,NA,NA,179,-25,5,"Clothing","Kurti","COD"
+"B-26041",NA,NA,NA,NA,176,-28,5,"Furniture","Furnishings","COD"
+"B-26010",NA,NA,NA,NA,176,-13,5,"Furniture","Furnishings","COD"
+"B-25640",NA,NA,NA,NA,68,-62,2,"Clothing","Trousers","Debit Card"
+"B-25794",NA,NA,NA,NA,176,37,6,"Electronics","Accessories","COD"
+"B-25987",NA,NA,NA,NA,88,11,7,"Clothing","Hankerchief","UPI"
+"B-25615",NA,NA,NA,NA,68,20,5,"Clothing","Hankerchief","Debit Card"
+"B-25997",NA,NA,NA,NA,231,99,2,"Electronics","Electronic Games","Credit Card"
+"B-25981",NA,NA,NA,NA,62,8,2,"Clothing","T-shirt","UPI"
+"B-25791",NA,NA,NA,NA,175,77,3,"Clothing","Saree","COD"
+"B-25986",NA,NA,NA,NA,71,4,5,"Clothing","Leggings","Debit Card"
+"B-25652",NA,NA,NA,NA,174,-70,3,"Electronics","Accessories","COD"
+"B-25952",NA,NA,NA,NA,173,69,3,"Furniture","Chairs","COD"
+"B-25898",NA,NA,NA,NA,171,2,2,"Electronics","Electronic Games","COD"
+"B-25785",NA,NA,NA,NA,268,-25,3,"Clothing","Saree","COD"
+"B-25990",NA,NA,NA,NA,71,32,3,"Clothing","Saree","Debit Card"
+"B-26091",NA,NA,NA,NA,29,10,4,"Clothing","Hankerchief","UPI"
+"B-25604",NA,NA,NA,NA,65,17,2,"Clothing","T-shirt","UPI"
+"B-25754",NA,NA,NA,NA,72,-46,7,"Clothing","Kurti","Debit Card"
+"B-25724",NA,NA,NA,NA,168,-51,2,"Furniture","Bookcases","COD"
+"B-25757",NA,NA,NA,NA,165,30,3,"Clothing","Stole","COD"
+"B-25767",NA,NA,NA,NA,74,-59,2,"Electronics","Accessories","Debit Card"
+"B-25886",NA,NA,NA,NA,89,17,2,"Clothing","Stole","UPI"
+"B-25621",NA,NA,NA,NA,228,63,3,"Electronics","Electronic Games","Credit Card"
+"B-25967",NA,NA,NA,NA,119,-24,4,"Furniture","Furnishings","COD"
+"B-25691",NA,NA,NA,NA,75,-25,3,"Clothing","Stole","UPI"
+"B-25953",NA,NA,NA,NA,67,20,4,"Clothing","T-shirt","UPI"
+"B-25651",NA,NA,NA,NA,7,0,1,"Clothing","Leggings","COD"
+"B-25828",NA,NA,NA,NA,222,35,5,"Clothing","Saree","Credit Card"
+"B-25628",NA,NA,NA,NA,219,-9,4,"Clothing","Saree","Credit Card"
+"B-25703",NA,NA,NA,NA,42,-23,2,"Furniture","Furnishings","UPI"
+"B-25929",NA,NA,NA,NA,216,-135,3,"Furniture","Chairs","Credit Card"
+"B-25748",NA,NA,NA,NA,47,-21,2,"Electronics","Electronic Games","COD"
+"B-25610",NA,NA,NA,NA,68,-55,5,"Electronics","Accessories","UPI"
+"B-25903",NA,NA,NA,NA,74,33,2,"Clothing","Shirt","Debit Card"
+"B-25878",NA,NA,NA,NA,165,46,3,"Furniture","Furnishings","COD"
+"B-26056",NA,NA,NA,NA,101,11,2,"Clothing","Hankerchief","UPI"
+"B-26004",NA,NA,NA,NA,162,73,2,"Electronics","Electronic Games","COD"
+"B-25699",NA,NA,NA,NA,20,-22,1,"Furniture","Furnishings","UPI"
+"B-26053",NA,NA,NA,NA,162,55,3,"Clothing","Stole","COD"
+"B-25654",NA,NA,NA,NA,229,-23,2,"Clothing","Saree","UPI"
+"B-25954",NA,NA,NA,NA,27,0,2,"Clothing","Leggings","COD"
+"B-25910",NA,NA,NA,NA,685,7,7,"Clothing","Trousers","UPI"
+"B-26064",NA,NA,NA,NA,75,2,5,"Clothing","Leggings","Debit Card"
+"B-25983",NA,NA,NA,NA,161,-229,8,"Furniture","Furnishings","COD"
+"B-26002",NA,NA,NA,NA,71,19,3,"Clothing","T-shirt","COD"
+"B-25650",NA,NA,NA,NA,211,-105,2,"Clothing","Saree","Credit Card"
+"B-26043",NA,NA,NA,NA,79,5,6,"Clothing","Hankerchief","Debit Card"
+"B-25657",NA,NA,NA,NA,32,-22,5,"Clothing","Saree","UPI"
+"B-25838",NA,NA,NA,NA,161,40,3,"Clothing","Stole","COD"
+"B-25651",NA,NA,NA,NA,159,4,1,"Clothing","Saree","COD"
+"B-25808",NA,NA,NA,NA,210,-50,4,"Clothing","Hankerchief","Credit Card"
+"B-25973",NA,NA,NA,NA,79,39,2,"Clothing","Shirt","Debit Card"
+"B-25698",NA,NA,NA,NA,207,153,3,"Clothing","Saree","Credit Card"
+"B-25818",NA,NA,NA,NA,36,0,4,"Clothing","Kurti","COD"
+"B-26061",NA,NA,NA,NA,206,12,1,"Electronics","Printers","Credit Card"
+"B-25878",NA,NA,NA,NA,46,0,4,"Clothing","Leggings","COD"
+"B-26054",NA,NA,NA,NA,156,23,3,"Clothing","Stole","COD"
+"B-25809",NA,NA,NA,NA,154,54,3,"Clothing","Hankerchief","COD"
+"B-26042",NA,NA,NA,NA,36,15,3,"Clothing","Stole","UPI"
+"B-26008",NA,NA,NA,NA,206,51,4,"Clothing","Hankerchief","Credit Card"
+"B-25927",NA,NA,NA,NA,200,7,4,"Electronics","Electronic Games","Credit Card"
+"B-26008",NA,NA,NA,NA,199,-1,1,"Clothing","Saree","Credit Card"
+"B-25753",NA,NA,NA,NA,154,22,7,"Clothing","T-shirt","COD"
+"B-25948",NA,NA,NA,NA,152,23,3,"Furniture","Furnishings","COD"
+"B-26094",NA,NA,NA,NA,152,50,6,"Clothing","Stole","COD"
+"B-25654",NA,NA,NA,NA,122,-21,3,"Furniture","Furnishings","UPI"
+"B-25854",NA,NA,NA,NA,149,48,6,"Clothing","Stole","COD"
+"B-25623",NA,NA,NA,NA,149,-87,4,"Clothing","Saree","COD"
+"B-25985",NA,NA,NA,NA,197,20,4,"Clothing","Kurti","Credit Card"
+"B-25723",NA,NA,NA,NA,76,-54,3,"Electronics","Electronic Games","COD"
+"B-25751",NA,NA,NA,NA,221,-15,2,"Electronics","Electronic Games","COD"
+"B-26050",NA,NA,NA,NA,79,32,3,"Clothing","Saree","Debit Card"
+"B-25800",NA,NA,NA,NA,45,12,7,"Clothing","Hankerchief","UPI"
+"B-25673",NA,NA,NA,NA,149,-1,1,"Clothing","Saree","COD"
+"B-26002",NA,NA,NA,NA,80,22,3,"Clothing","Stole","Debit Card"
+"B-26009",NA,NA,NA,NA,195,12,9,"Clothing","Shirt","Credit Card"
+"B-25754",NA,NA,NA,NA,19,0,3,"Clothing","Skirt","UPI"
+"B-25953",NA,NA,NA,NA,81,41,3,"Clothing","Stole","Debit Card"
+"B-26039",NA,NA,NA,NA,83,34,5,"Clothing","Shirt","Debit Card"
+"B-26001",NA,NA,NA,NA,149,17,4,"Furniture","Furnishings","COD"
+"B-25620",NA,NA,NA,NA,193,46,1,"Electronics","Printers","Credit Card"
+"B-26051",NA,NA,NA,NA,85,24,10,"Clothing","Hankerchief","Debit Card"
+"B-25673",NA,NA,NA,NA,44,-17,5,"Clothing","Saree","UPI"
+"B-25721",NA,NA,NA,NA,149,-40,2,"Electronics","Phones","COD"
+"B-25764",NA,NA,NA,NA,26,0,2,"Clothing","Kurti","COD"
+"B-25645",NA,NA,NA,NA,86,0,4,"Clothing","T-shirt","Debit Card"
+"B-26066",NA,NA,NA,NA,86,22,2,"Clothing","Saree","Debit Card"
+"B-26003",NA,NA,NA,NA,79,16,3,"Clothing","T-shirt","COD"
+"B-25712",NA,NA,NA,NA,193,-275,3,"Electronics","Phones","Credit Card"
+"B-25796",NA,NA,NA,NA,148,0,3,"Clothing","Saree","COD"
+"B-25738",NA,NA,NA,NA,70,-14,2,"Furniture","Furnishings","UPI"
+"B-25771",NA,NA,NA,NA,148,59,3,"Clothing","Hankerchief","COD"
+"B-25950",NA,NA,NA,NA,190,19,9,"Furniture","Furnishings","Credit Card"
+"B-26038",NA,NA,NA,NA,52,14,2,"Clothing","Stole","COD"
+"B-26004",NA,NA,NA,NA,147,44,3,"Clothing","Saree","COD"
+"B-25896",NA,NA,NA,NA,190,68,8,"Clothing","T-shirt","Credit Card"
+"B-25601",NA,NA,NA,NA,80,-56,4,"Electronics","Electronic Games","UPI"
+"B-25952",NA,NA,NA,NA,147,48,3,"Clothing","Saree","COD"
+"B-25873",NA,NA,NA,NA,66,12,3,"Clothing","Stole","COD"
+"B-25844",NA,NA,NA,NA,86,8,2,"Clothing","Saree","Debit Card"
+"B-26054",NA,NA,NA,NA,88,19,2,"Clothing","Shirt","Debit Card"
+"B-25953",NA,NA,NA,NA,188,-193,2,"Electronics","Electronic Games","Credit Card"
+"B-25951",NA,NA,NA,NA,89,29,2,"Clothing","Stole","UPI"
+"B-26065",NA,NA,NA,NA,146,19,5,"Clothing","Stole","COD"
+"B-26033",NA,NA,NA,NA,143,32,1,"Furniture","Bookcases","COD"
+"B-25781",NA,NA,NA,NA,25,-1,4,"Clothing","Kurti","COD"
+"B-26043",NA,NA,NA,NA,30,12,3,"Clothing","Skirt","UPI"
+"B-25787",NA,NA,NA,NA,140,-58,4,"Furniture","Furnishings","COD"
+"B-25664",NA,NA,NA,NA,83,-48,1,"Furniture","Bookcases","UPI"
+"B-25825",NA,NA,NA,NA,140,6,5,"Clothing","Saree","COD"
+"B-25818",NA,NA,NA,NA,28,14,4,"Clothing","Hankerchief","COD"
+"B-25765",NA,NA,NA,NA,139,14,3,"Clothing","Stole","COD"
+"B-25853",NA,NA,NA,NA,30,14,3,"Clothing","Hankerchief","UPI"
+"B-26030",NA,NA,NA,NA,89,36,3,"Clothing","Shirt","UPI"
+"B-25730",NA,NA,NA,NA,187,30,4,"Electronics","Accessories","Credit Card"
+"B-26054",NA,NA,NA,NA,139,21,3,"Electronics","Accessories","COD"
+"B-25773",NA,NA,NA,NA,437,-14,2,"Clothing","Saree","UPI"
+"B-25717",NA,NA,NA,NA,138,-3,5,"Clothing","Saree","COD"
+"B-26010",NA,NA,NA,NA,85,13,2,"Clothing","Shirt","UPI"
+"B-25893",NA,NA,NA,NA,83,12,3,"Clothing","Stole","UPI"
+"B-26076",NA,NA,NA,NA,91,22,2,"Clothing","Stole","UPI"
+"B-25803",NA,NA,NA,NA,137,5,5,"Clothing","Shirt","COD"
+"B-25709",NA,NA,NA,NA,33,-12,7,"Clothing","Saree","UPI"
+"B-25755",NA,NA,NA,NA,134,-34,2,"Furniture","Chairs","COD"
+"B-25684",NA,NA,NA,NA,134,42,2,"Furniture","Chairs","COD"
+"B-25739",NA,NA,NA,NA,133,-56,2,"Furniture","Chairs","COD"
+"B-26081",NA,NA,NA,NA,93,-84,3,"Clothing","Saree","UPI"
+"B-25662",NA,NA,NA,NA,86,-21,1,"Electronics","Electronic Games","UPI"
+"B-25845",NA,NA,NA,NA,132,54,5,"Clothing","Stole","COD"
+"B-26085",NA,NA,NA,NA,132,-10,3,"Clothing","Saree","COD"
+"B-25745",NA,NA,NA,NA,132,-79,5,"Furniture","Furnishings","COD"
+"B-25999",NA,NA,NA,NA,93,-65,4,"Clothing","Stole","UPI"
+"B-26082",NA,NA,NA,NA,95,5,2,"Clothing","Stole","UPI"
+"B-26097",NA,NA,NA,NA,97,12,2,"Clothing","Hankerchief","UPI"
+"B-25731",NA,NA,NA,NA,131,-154,8,"Furniture","Furnishings","COD"
+"B-25625",NA,NA,NA,NA,97,29,2,"Clothing","Hankerchief","UPI"
+"B-25853",NA,NA,NA,NA,128,4,3,"Clothing","Saree","COD"
+"B-25703",NA,NA,NA,NA,186,241,9,"Clothing","Shirt","Credit Card"
+"B-26003",NA,NA,NA,NA,128,47,4,"Clothing","Hankerchief","COD"
+"B-25803",NA,NA,NA,NA,185,48,4,"Clothing","Stole","Credit Card"
+"B-25719",NA,NA,NA,NA,29,10,2,"Clothing","Stole","COD"
+"B-25883",NA,NA,NA,NA,127,29,3,"Furniture","Furnishings","COD"
+"B-25891",NA,NA,NA,NA,97,36,7,"Clothing","Hankerchief","UPI"
+"B-25821",NA,NA,NA,NA,125,0,3,"Electronics","Accessories","COD"
+"B-25646",NA,NA,NA,NA,299,-8,2,"Clothing","Saree","COD"
+"B-25874",NA,NA,NA,NA,124,54,5,"Clothing","T-shirt","COD"
+"B-25717",NA,NA,NA,NA,90,17,3,"Clothing","Shirt","COD"
+"B-26073",NA,NA,NA,NA,122,11,4,"Clothing","Hankerchief","COD"
+"B-25800",NA,NA,NA,NA,122,-66,9,"Electronics","Accessories","COD"
+"B-25991",NA,NA,NA,NA,90,30,2,"Furniture","Chairs","UPI"
+"B-25638",NA,NA,NA,NA,182,-11,3,"Furniture","Bookcases","Credit Card"
+"B-26021",NA,NA,NA,NA,122,59,7,"Furniture","Furnishings","COD"
+"B-25882",NA,NA,NA,NA,121,19,4,"Clothing","Stole","COD"
+"B-26053",NA,NA,NA,NA,120,1,1,"Furniture","Chairs","COD"
+"B-25951",NA,NA,NA,NA,120,23,5,"Clothing","Stole","COD"
+"B-25757",NA,NA,NA,NA,34,-11,5,"Clothing","T-shirt","COD"
+"B-25777",NA,NA,NA,NA,117,17,6,"Clothing","Kurti","COD"
+"B-26040",NA,NA,NA,NA,38,9,2,"Clothing","Stole","COD"
+"B-25696",NA,NA,NA,NA,117,-6,3,"Electronics","Phones","COD"
+"B-25977",NA,NA,NA,NA,180,54,4,"Clothing","T-shirt","Credit Card"
+"B-25743",NA,NA,NA,NA,99,-5,1,"Clothing","Saree","UPI"
+"B-25651",NA,NA,NA,NA,172,-103,3,"Furniture","Chairs","EMI"
+"B-25603",NA,NA,NA,NA,116,16,4,"Clothing","Stole","COD"
+"B-25696",NA,NA,NA,NA,116,-4,1,"Clothing","Saree","COD"
+"B-26037",NA,NA,NA,NA,171,68,7,"Clothing","Stole","EMI"
+"B-26098",NA,NA,NA,NA,46,14,5,"Clothing","Skirt","COD"
+"B-25697",NA,NA,NA,NA,115,-39,3,"Clothing","Trousers","COD"
+"B-25920",NA,NA,NA,NA,100,7,2,"Clothing","T-shirt","UPI"
+"B-25993",NA,NA,NA,NA,44,8,2,"Clothing","Stole","COD"
+"B-26089",NA,NA,NA,NA,139,14,3,"Clothing","Kurti","COD"
+"B-25960",NA,NA,NA,NA,171,-140,2,"Furniture","Bookcases","EMI"
+"B-25917",NA,NA,NA,NA,100,12,2,"Clothing","T-shirt","UPI"
+"B-25825",NA,NA,NA,NA,115,25,6,"Clothing","Stole","COD"
+"B-25696",NA,NA,NA,NA,168,-9,3,"Clothing","Saree","COD"
+"B-25972",NA,NA,NA,NA,115,47,2,"Electronics","Accessories","COD"
+"B-25602",NA,NA,NA,NA,168,-111,2,"Electronics","Phones","EMI"
+"B-25736",NA,NA,NA,NA,31,-7,5,"Clothing","Skirt","UPI"
+"B-26003",NA,NA,NA,NA,114,41,6,"Furniture","Furnishings","COD"
+"B-25970",NA,NA,NA,NA,111,9,4,"Clothing","Stole","COD"
+"B-25742",NA,NA,NA,NA,11,-8,2,"Clothing","Skirt","UPI"
+"B-25770",NA,NA,NA,NA,110,35,1,"Furniture","Furnishings","COD"
+"B-26098",NA,NA,NA,NA,59,15,2,"Clothing","T-shirt","UPI"
+"B-26050",NA,NA,NA,NA,166,27,2,"Electronics","Accessories","EMI"
+"B-25778",NA,NA,NA,NA,109,-6,6,"Clothing","Saree","COD"
+"B-25652",NA,NA,NA,NA,34,-6,4,"Clothing","Leggings","COD"
+"B-25999",NA,NA,NA,NA,109,40,1,"Furniture","Furnishings","COD"
+"B-25909",NA,NA,NA,NA,108,22,3,"Electronics","Accessories","COD"
+"B-25823",NA,NA,NA,NA,103,50,2,"Furniture","Furnishings","UPI"
+"B-25701",NA,NA,NA,NA,10,-8,2,"Clothing","Skirt","COD"
+"B-25855",NA,NA,NA,NA,90,17,3,"Clothing","Hankerchief","COD"
+"B-25654",NA,NA,NA,NA,105,46,2,"Clothing","Stole","UPI"
+"B-25623",NA,NA,NA,NA,105,20,2,"Clothing","Stole","Debit Card"
+"B-25641",NA,NA,NA,NA,22,-6,1,"Furniture","Furnishings","COD"
+"B-25852",NA,NA,NA,NA,105,-33,5,"Clothing","Kurti","COD"
+"B-25958",NA,NA,NA,NA,105,25,2,"Clothing","Hankerchief","EMI"
+"B-25802",NA,NA,NA,NA,25,-7,5,"Clothing","Saree","UPI"
+"B-25823",NA,NA,NA,NA,104,2,2,"Furniture","Furnishings","COD"
+"B-25834",NA,NA,NA,NA,16,5,1,"Clothing","Stole","UPI"
+"B-25678",NA,NA,NA,NA,64,-7,3,"Clothing","Saree","COD"
+"B-25774",NA,NA,NA,NA,38,-6,2,"Furniture","Furnishings","UPI"
+"B-25904",NA,NA,NA,NA,83,12,2,"Furniture","Chairs","COD"
+"B-25896",NA,NA,NA,NA,103,36,2,"Clothing","Hankerchief","COD"
+"B-25796",NA,NA,NA,NA,37,-6,1,"Clothing","Saree","UPI"
+"B-25934",NA,NA,NA,NA,105,33,6,"Clothing","Saree","EMI"
+"B-25750",NA,NA,NA,NA,78,-6,2,"Furniture","Furnishings","UPI"
+"B-25761",NA,NA,NA,NA,102,-90,1,"Clothing","Saree","COD"
+"B-25912",NA,NA,NA,NA,102,11,6,"Clothing","T-shirt","COD"
+"B-25751",NA,NA,NA,NA,10,-8,1,"Clothing","Kurti","UPI"
+"B-25656",NA,NA,NA,NA,101,18,9,"Clothing","Skirt","COD"
+"B-25647",NA,NA,NA,NA,42,-6,4,"Clothing","Saree","UPI"
+"B-25861",NA,NA,NA,NA,56,18,2,"Clothing","Hankerchief","UPI"
+"B-25802",NA,NA,NA,NA,95,5,2,"Clothing","Stole","COD"
+"B-25901",NA,NA,NA,NA,159,2,3,"Furniture","Furnishings","EMI"
+"B-25623",NA,NA,NA,NA,158,69,3,"Clothing","Stole","EMI"
+"B-25751",NA,NA,NA,NA,106,0,2,"Electronics","Phones","EMI"
+"B-26052",NA,NA,NA,NA,101,16,4,"Clothing","T-shirt","COD"
+"B-25886",NA,NA,NA,NA,107,37,3,"Clothing","Shirt","COD"
+"B-25804",NA,NA,NA,NA,156,36,5,"Clothing","T-shirt","EMI"
+"B-25734",NA,NA,NA,NA,108,-19,3,"Electronics","Electronic Games","UPI"
+"B-25610",NA,NA,NA,NA,107,-54,4,"Clothing","Stole","EMI"
+"B-25711",NA,NA,NA,NA,100,-58,4,"Clothing","Hankerchief","COD"
+"B-25985",NA,NA,NA,NA,108,26,4,"Clothing","Shirt","UPI"
+"B-25864",NA,NA,NA,NA,100,6,4,"Clothing","Stole","COD"
+"B-25648",NA,NA,NA,NA,100,-23,1,"Electronics","Phones","COD"
+"B-26086",NA,NA,NA,NA,43,17,2,"Clothing","T-shirt","UPI"
+"B-25835",NA,NA,NA,NA,155,26,3,"Clothing","Stole","EMI"
+"B-25949",NA,NA,NA,NA,151,9,3,"Clothing","Hankerchief","EMI"
+"B-25930",NA,NA,NA,NA,151,29,5,"Clothing","Hankerchief","EMI"
+"B-25655",NA,NA,NA,NA,110,-68,4,"Clothing","Saree","EMI"
+"B-25757",NA,NA,NA,NA,98,9,2,"Furniture","Furnishings","COD"
+"B-25655",NA,NA,NA,NA,97,-62,2,"Clothing","Trousers","COD"
+"B-26033",NA,NA,NA,NA,111,35,5,"Clothing","Shirt","COD"
+"B-26083",NA,NA,NA,NA,45,17,1,"Electronics","Accessories","COD"
+"B-25805",NA,NA,NA,NA,112,15,2,"Furniture","Chairs","COD"
+"B-25955",NA,NA,NA,NA,110,20,5,"Clothing","Stole","Debit Card"
+"B-25762",NA,NA,NA,NA,98,-5,2,"Clothing","Saree","UPI"
+"B-25919",NA,NA,NA,NA,110,12,7,"Clothing","Stole","Debit Card"
+"B-25853",NA,NA,NA,NA,95,11,4,"Furniture","Furnishings","COD"
+"B-25925",NA,NA,NA,NA,1228,14,3,"Furniture","Chairs","UPI"
+"B-26023",NA,NA,NA,NA,29,0,3,"Furniture","Furnishings","COD"
+"B-26055",NA,NA,NA,NA,94,27,2,"Clothing","T-shirt","COD"
+"B-25653",NA,NA,NA,NA,115,25,1,"Electronics","Accessories","COD"
+"B-25893",NA,NA,NA,NA,149,15,3,"Clothing","Saree","EMI"
+"B-26052",NA,NA,NA,NA,148,23,4,"Clothing","Kurti","EMI"
+"B-25830",NA,NA,NA,NA,93,15,2,"Electronics","Accessories","COD"
+"B-26040",NA,NA,NA,NA,113,24,4,"Clothing","Hankerchief","Debit Card"
+"B-25981",NA,NA,NA,NA,48,2,3,"Clothing","Stole","COD"
+"B-25954",NA,NA,NA,NA,148,9,1,"Electronics","Electronic Games","UPI"
+"B-25889",NA,NA,NA,NA,114,11,4,"Clothing","T-shirt","Debit Card"
+"B-25810",NA,NA,NA,NA,92,42,2,"Clothing","Stole","COD"
+"B-25637",NA,NA,NA,NA,117,14,3,"Clothing","Shirt","UPI"
+"B-25801",NA,NA,NA,NA,21,-10,4,"Clothing","Leggings","COD"
+"B-25783",NA,NA,NA,NA,33,-10,6,"Clothing","Leggings","UPI"
+"B-25697",NA,NA,NA,NA,114,8,3,"Electronics","Accessories","Debit Card"
+"B-26028",NA,NA,NA,NA,115,0,1,"Electronics","Accessories","Debit Card"
+"B-25851",NA,NA,NA,NA,90,29,5,"Clothing","T-shirt","COD"
+"B-25938",NA,NA,NA,NA,61,1,2,"Furniture","Furnishings","COD"
+"B-25820",NA,NA,NA,NA,119,1,1,"Furniture","Chairs","COD"
+"B-25850",NA,NA,NA,NA,117,36,2,"Clothing","Trousers","Debit Card"
+"B-25924",NA,NA,NA,NA,148,54,2,"Furniture","Chairs","UPI"
+"B-25609",NA,NA,NA,NA,249,-5,4,"Clothing","Saree","COD"
+"B-25898",NA,NA,NA,NA,147,73,3,"Clothing","Stole","UPI"
+"B-25814",NA,NA,NA,NA,118,35,7,"Clothing","T-shirt","EMI"
+"B-26087",NA,NA,NA,NA,119,56,7,"Clothing","Saree","EMI"
+"B-25901",NA,NA,NA,NA,90,27,2,"Clothing","T-shirt","COD"
+"B-26025",NA,NA,NA,NA,32,1,2,"Clothing","Stole","COD"
+"B-25631",NA,NA,NA,NA,89,-89,2,"Furniture","Furnishings","COD"
+"B-25954",NA,NA,NA,NA,146,66,1,"Electronics","Phones","UPI"
+"B-25956",NA,NA,NA,NA,89,-37,4,"Clothing","Shirt","COD"
+"B-26096",NA,NA,NA,NA,88,11,3,"Electronics","Accessories","COD"
+"B-25862",NA,NA,NA,NA,121,41,4,"Clothing","Stole","EMI"
+"B-26054",NA,NA,NA,NA,88,20,2,"Clothing","Saree","COD"
+"B-25698",NA,NA,NA,NA,87,-83,5,"Clothing","Kurti","COD"
+"B-25606",NA,NA,NA,NA,87,4,2,"Clothing","Shirt","COD"
+"B-25928",NA,NA,NA,NA,122,15,3,"Electronics","Accessories","EMI"
+"B-26005",NA,NA,NA,NA,87,10,3,"Clothing","Stole","COD"
+"B-25963",NA,NA,NA,NA,53,8,3,"Furniture","Furnishings","UPI"
+"B-25952",NA,NA,NA,NA,87,-32,9,"Clothing","Skirt","COD"
+"B-25683",NA,NA,NA,NA,86,-55,6,"Clothing","Saree","COD"
+"B-25914",NA,NA,NA,NA,125,22,3,"Clothing","Stole","EMI"
+"B-25828",NA,NA,NA,NA,128,-3,3,"Clothing","Saree","Debit Card"
+"B-25743",NA,NA,NA,NA,143,-124,5,"Clothing","Saree","UPI"
+"B-26085",NA,NA,NA,NA,86,22,2,"Clothing","Saree","COD"
+"B-25869",NA,NA,NA,NA,86,9,3,"Clothing","Saree","COD"
+"B-25773",NA,NA,NA,NA,85,-9,4,"Clothing","Saree","COD"
+"B-25700",NA,NA,NA,NA,129,-75,5,"Clothing","Shirt","Debit Card"
+"B-25921",NA,NA,NA,NA,84,-42,2,"Electronics","Accessories","COD"
+"B-25730",NA,NA,NA,NA,83,-81,3,"Furniture","Chairs","COD"
+"B-26083",NA,NA,NA,NA,143,6,2,"Electronics","Accessories","UPI"
+"B-25849",NA,NA,NA,NA,336,123,3,"Electronics","Phones","UPI"
+"B-25909",NA,NA,NA,NA,323,122,5,"Electronics","Phones","UPI"
+"B-26038",NA,NA,NA,NA,130,61,3,"Clothing","Shirt","Debit Card"
+"B-25999",NA,NA,NA,NA,152,-3,5,"Clothing","Saree","COD"
+"B-25928",NA,NA,NA,NA,25,10,1,"Furniture","Furnishings","UPI"
+"B-25878",NA,NA,NA,NA,140,15,5,"Clothing","Stole","UPI"
+"B-25843",NA,NA,NA,NA,45,0,2,"Clothing","Stole","UPI"
+"B-25959",NA,NA,NA,NA,132,49,3,"Clothing","Shirt","COD"
+"B-25630",NA,NA,NA,NA,133,12,5,"Clothing","Stole","Debit Card"
+"B-25858",NA,NA,NA,NA,82,13,2,"Clothing","Shirt","COD"
+"B-26096",NA,NA,NA,NA,140,56,4,"Clothing","Shirt","UPI"
+"B-25838",NA,NA,NA,NA,81,19,7,"Clothing","Hankerchief","COD"
+"B-25943",NA,NA,NA,NA,137,38,5,"Clothing","Hankerchief","Debit Card"
+"B-25780",NA,NA,NA,NA,137,-41,3,"Electronics","Phones","Debit Card"
+"B-25949",NA,NA,NA,NA,140,57,2,"Clothing","Trousers","Debit Card"
+"B-25892",NA,NA,NA,NA,139,30,3,"Clothing","Shirt","UPI"
+"B-26054",NA,NA,NA,NA,138,11,5,"Clothing","Stole","UPI"
+"B-25988",NA,NA,NA,NA,79,-124,9,"Clothing","Skirt","COD"
+"B-25939",NA,NA,NA,NA,136,41,3,"Electronics","Accessories","UPI"
+"B-26083",NA,NA,NA,NA,145,16,3,"Clothing","T-shirt","Debit Card"
+"B-26078",NA,NA,NA,NA,44,20,2,"Clothing","T-shirt","UPI"
+"B-25902",NA,NA,NA,NA,79,6,7,"Clothing","Saree","COD"
+"B-25676",NA,NA,NA,NA,79,36,4,"Clothing","Shirt","COD"
+"B-26016",NA,NA,NA,NA,134,-13,3,"Electronics","Electronic Games","UPI"
+"B-25950",NA,NA,NA,NA,133,5,5,"Clothing","Stole","UPI"
+"B-26056",NA,NA,NA,NA,47,20,7,"Clothing","Hankerchief","UPI"
+"B-25645",NA,NA,NA,NA,133,-42,1,"Electronics","Printers","UPI"
+"B-25906",NA,NA,NA,NA,78,27,3,"Clothing","Stole","COD"
+"B-26017",NA,NA,NA,NA,78,7,1,"Furniture","Chairs","COD"
+"B-25644",NA,NA,NA,NA,76,-92,8,"Furniture","Furnishings","COD"
+"B-25679",NA,NA,NA,NA,76,-50,1,"Clothing","Saree","COD"
+"B-25854",NA,NA,NA,NA,76,19,3,"Clothing","Hankerchief","COD"
+"B-25670",NA,NA,NA,NA,74,29,3,"Clothing","Stole","COD"
+"B-25792",NA,NA,NA,NA,74,-25,3,"Clothing","Stole","COD"
+"B-25808",NA,NA,NA,NA,146,-63,3,"Electronics","Electronic Games","Debit Card"
+"B-25750",NA,NA,NA,NA,73,-31,1,"Furniture","Bookcases","COD"
+"B-26051",NA,NA,NA,NA,80,22,3,"Clothing","Stole","UPI"
+"B-26076",NA,NA,NA,NA,133,46,5,"Clothing","Shirt","EMI"
+"B-25946",NA,NA,NA,NA,146,7,2,"Electronics","Phones","Debit Card"
+"B-25648",NA,NA,NA,NA,130,-41,4,"Clothing","Saree","EMI"
+"B-25992",NA,NA,NA,NA,141,41,3,"Clothing","Shirt","UPI"
+"B-25848",NA,NA,NA,NA,147,21,3,"Furniture","Furnishings","Debit Card"
+"B-25697",NA,NA,NA,NA,73,-7,1,"Electronics","Phones","COD"
+"B-25659",NA,NA,NA,NA,148,72,7,"Clothing","T-shirt","Debit Card"
+"B-25716",NA,NA,NA,NA,58,0,4,"Clothing","Saree","UPI"
+"B-25652",NA,NA,NA,NA,21,-13,3,"Clothing","Leggings","UPI"
+"B-26093",NA,NA,NA,NA,148,25,3,"Clothing","Saree","Debit Card"
+"B-25725",NA,NA,NA,NA,144,-7,4,"Electronics","Electronic Games","COD"
+"B-25661",NA,NA,NA,NA,145,-104,5,"Furniture","Chairs","UPI"
+"B-25693",NA,NA,NA,NA,72,-49,1,"Electronics","Phones","COD"
+"B-25910",NA,NA,NA,NA,125,15,5,"Clothing","Shirt","EMI"
+"B-25943",NA,NA,NA,NA,149,15,3,"Clothing","Saree","Debit Card"
+"B-26100",NA,NA,NA,NA,72,16,2,"Clothing","Shirt","COD"
+"B-25830",NA,NA,NA,NA,71,0,8,"Clothing","Skirt","COD"
+"B-25932",NA,NA,NA,NA,71,-14,4,"Furniture","Furnishings","COD"
+"B-25929",NA,NA,NA,NA,154,-85,3,"Furniture","Chairs","EMI"
+"B-25708",NA,NA,NA,NA,191,13,8,"Furniture","Furnishings","COD"
+"B-25921",NA,NA,NA,NA,170,19,5,"Clothing","T-shirt","UPI"
+"B-25755",NA,NA,NA,NA,47,-3,2,"Clothing","Stole","UPI"
+"B-25640",NA,NA,NA,NA,122,-47,4,"Clothing","Saree","EMI"
+"B-25838",NA,NA,NA,NA,70,26,5,"Clothing","Hankerchief","COD"
+"B-26025",NA,NA,NA,NA,155,5,3,"Clothing","Stole","EMI"
+"B-25789",NA,NA,NA,NA,67,-86,9,"Furniture","Furnishings","COD"
+"B-25697",NA,NA,NA,NA,67,-42,3,"Clothing","Stole","COD"
+"B-25797",NA,NA,NA,NA,148,-101,2,"Furniture","Bookcases","UPI"
+"B-26064",NA,NA,NA,NA,122,38,6,"Clothing","T-shirt","Credit Card"
+"B-25732",NA,NA,NA,NA,16,-5,2,"Clothing","Stole","UPI"
+"B-25654",NA,NA,NA,NA,121,-17,3,"Furniture","Furnishings","Credit Card"
+"B-25750",NA,NA,NA,NA,42,-15,12,"Clothing","Skirt","UPI"
+"B-25751",NA,NA,NA,NA,65,-4,6,"Clothing","Hankerchief","COD"
+"B-25889",NA,NA,NA,NA,119,-43,7,"Clothing","Kurti","Credit Card"
+"B-25683",NA,NA,NA,NA,155,56,3,"Furniture","Furnishings","EMI"
+"B-25602",NA,NA,NA,NA,119,-5,8,"Clothing","Saree","Credit Card"
+"B-25871",NA,NA,NA,NA,118,25,4,"Clothing","Hankerchief","Credit Card"
+"B-25953",NA,NA,NA,NA,116,22,1,"Electronics","Accessories","Credit Card"
+"B-25950",NA,NA,NA,NA,158,-29,10,"Clothing","Hankerchief","EMI"
+"B-26091",NA,NA,NA,NA,158,69,3,"Clothing","Stole","EMI"
+"B-25753",NA,NA,NA,NA,65,-52,3,"Electronics","Accessories","COD"
+"B-25611",NA,NA,NA,NA,160,-59,2,"Clothing","Saree","EMI"
+"B-25935",NA,NA,NA,NA,162,20,3,"Furniture","Chairs","EMI"
+"B-25886",NA,NA,NA,NA,63,1,4,"Clothing","T-shirt","COD"
+"B-25833",NA,NA,NA,NA,64,27,5,"Clothing","Hankerchief","UPI"
+"B-25665",NA,NA,NA,NA,166,-113,4,"Electronics","Accessories","EMI"
+"B-25694",NA,NA,NA,NA,167,43,7,"Clothing","T-shirt","EMI"
+"B-25668",NA,NA,NA,NA,123,17,3,"Furniture","Furnishings","COD"
+"B-25945",NA,NA,NA,NA,63,14,2,"Clothing","Shirt","COD"
+"B-25954",NA,NA,NA,NA,891,0,5,"Clothing","Saree","COD"
+"B-25818",NA,NA,NA,NA,75,28,9,"Clothing","Hankerchief","UPI"
+"B-25861",NA,NA,NA,NA,62,6,5,"Clothing","Hankerchief","COD"
+"B-25721",NA,NA,NA,NA,29,-18,7,"Clothing","Skirt","UPI"
+"B-26024",NA,NA,NA,NA,168,18,6,"Clothing","Stole","Debit Card"
+"B-26056",NA,NA,NA,NA,70,24,3,"Clothing","Stole","UPI"
+"B-26050",NA,NA,NA,NA,169,55,4,"Clothing","Saree","Debit Card"
+"B-25708",NA,NA,NA,NA,32,-8,2,"Clothing","Stole","COD"
+"B-25651",NA,NA,NA,NA,44,-8,3,"Clothing","Stole","UPI"
+"B-25616",NA,NA,NA,NA,116,-56,5,"Clothing","Stole","Credit Card"
+"B-25827",NA,NA,NA,NA,156,21,3,"Furniture","Chairs","COD"
+"B-25996",NA,NA,NA,NA,62,6,6,"Clothing","Skirt","COD"
+"B-25830",NA,NA,NA,NA,54,1,2,"Clothing","Saree","UPI"
+"B-25951",NA,NA,NA,NA,111,11,9,"Clothing","Hankerchief","Credit Card"
+"B-25713",NA,NA,NA,NA,158,-63,4,"Furniture","Chairs","UPI"
+"B-25678",NA,NA,NA,NA,7,-3,2,"Clothing","Skirt","UPI"
+"B-25901",NA,NA,NA,NA,61,28,2,"Clothing","Hankerchief","UPI"
+"B-25798",NA,NA,NA,NA,61,-50,4,"Clothing","Hankerchief","COD"
+"B-25902",NA,NA,NA,NA,154,26,4,"Electronics","Accessories","COD"
+"B-25851",NA,NA,NA,NA,62,1,3,"Clothing","Saree","COD"
+"B-25944",NA,NA,NA,NA,169,38,3,"Clothing","Saree","Debit Card"
+"B-25939",NA,NA,NA,NA,61,18,2,"Electronics","Accessories","COD"
+"B-25656",NA,NA,NA,NA,61,-23,2,"Clothing","Saree","COD"
+"B-25695",NA,NA,NA,NA,171,14,9,"Clothing","Shirt","Debit Card"
+"B-25781",NA,NA,NA,NA,60,-49,8,"Clothing","Hankerchief","COD"
+"B-25783",NA,NA,NA,NA,25,-11,1,"Clothing","Stole","UPI"
+"B-25867",NA,NA,NA,NA,163,26,4,"Clothing","Shirt","COD"
+"B-25993",NA,NA,NA,NA,173,86,1,"Electronics","Printers","Debit Card"
+"B-25755",NA,NA,NA,NA,257,-3,2,"Furniture","Bookcases","UPI"
+"B-25880",NA,NA,NA,NA,108,37,2,"Clothing","Stole","Credit Card"
+"B-25941",NA,NA,NA,NA,177,41,4,"Clothing","Shirt","Debit Card"
+"B-25757",NA,NA,NA,NA,106,15,7,"Clothing","Hankerchief","Credit Card"
+"B-25754",NA,NA,NA,NA,41,-14,5,"Clothing","Leggings","UPI"
+"B-25653",NA,NA,NA,NA,168,-10,3,"Electronics","Accessories","UPI"
+"B-25821",NA,NA,NA,NA,60,21,4,"Clothing","Stole","COD"
+"B-25706",NA,NA,NA,NA,31,-11,4,"Clothing","Stole","COD"
+"B-26064",NA,NA,NA,NA,179,0,2,"Clothing","Saree","Debit Card"
+"B-25803",NA,NA,NA,NA,106,12,3,"Clothing","Trousers","Credit Card"
+"B-26076",NA,NA,NA,NA,60,13,2,"Clothing","T-shirt","COD"
+"B-25603",NA,NA,NA,NA,180,5,3,"Clothing","Trousers","Debit Card"
+"B-25903",NA,NA,NA,NA,60,-10,2,"Furniture","Furnishings","COD"
+"B-25938",NA,NA,NA,NA,59,25,3,"Clothing","Stole","COD"
+"B-25868",NA,NA,NA,NA,170,73,2,"Electronics","Accessories","UPI"
+"B-25956",NA,NA,NA,NA,59,10,2,"Clothing","Hankerchief","COD"
+"B-25652",NA,NA,NA,NA,24,-21,7,"Clothing","Skirt","COD"
+"B-25883",NA,NA,NA,NA,105,-26,8,"Clothing","Leggings","Credit Card"
+"B-26096",NA,NA,NA,NA,103,46,2,"Clothing","Saree","Credit Card"
+"B-25969",NA,NA,NA,NA,171,17,6,"Clothing","T-shirt","UPI"
+"B-25951",NA,NA,NA,NA,102,13,2,"Clothing","Stole","Credit Card"
+"B-25855",NA,NA,NA,NA,98,12,2,"Clothing","Hankerchief","Credit Card"
+"B-26091",NA,NA,NA,NA,59,10,4,"Clothing","Leggings","COD"
+"B-25954",NA,NA,NA,NA,189,60,4,"Furniture","Furnishings","Debit Card"
+"B-25763",NA,NA,NA,NA,58,-52,3,"Furniture","Chairs","COD"
+"B-25945",NA,NA,NA,NA,60,3,3,"Clothing","Saree","UPI"
+"B-25740",NA,NA,NA,NA,58,-8,2,"Clothing","Saree","COD"
+"B-25818",NA,NA,NA,NA,94,20,2,"Furniture","Furnishings","UPI"
+"B-25603",NA,NA,NA,NA,193,-166,3,"Clothing","Saree","EMI"
+"B-25964",NA,NA,NA,NA,199,0,4,"Clothing","Stole","EMI"
+"B-25930",NA,NA,NA,NA,202,89,9,"Clothing","T-shirt","EMI"
+"B-25930",NA,NA,NA,NA,58,17,2,"Clothing","Hankerchief","COD"
+"B-25879",NA,NA,NA,NA,57,-28,2,"Clothing","Kurti","COD"
+"B-25903",NA,NA,NA,NA,204,-94,4,"Clothing","Hankerchief","EMI"
+"B-25614",NA,NA,NA,NA,98,-12,2,"Electronics","Electronic Games","Credit Card"
+"B-25750",NA,NA,NA,NA,22,-12,3,"Clothing","Stole","COD"
+"B-25852",NA,NA,NA,NA,97,17,2,"Clothing","Stole","Credit Card"
+"B-26008",NA,NA,NA,NA,57,24,5,"Clothing","Leggings","COD"
+"B-26092",NA,NA,NA,NA,97,14,2,"Clothing","T-shirt","Credit Card"
+"B-25689",NA,NA,NA,NA,97,17,2,"Clothing","Stole","Credit Card"
+"B-25730",NA,NA,NA,NA,96,22,5,"Clothing","Stole","Credit Card"
+"B-25885",NA,NA,NA,NA,94,27,2,"Clothing","Shirt","Credit Card"
+"B-25999",NA,NA,NA,NA,26,-17,1,"Clothing","Stole","COD"
+"B-26011",NA,NA,NA,NA,93,44,2,"Clothing","Stole","Credit Card"
+"B-25754",NA,NA,NA,NA,93,-65,4,"Clothing","Stole","Credit Card"
+"B-26030",NA,NA,NA,NA,92,5,6,"Clothing","Hankerchief","Credit Card"
+"B-25851",NA,NA,NA,NA,57,27,2,"Clothing","T-shirt","COD"
+"B-25870",NA,NA,NA,NA,57,7,3,"Furniture","Furnishings","COD"
+"B-26074",NA,NA,NA,NA,57,21,4,"Clothing","Leggings","COD"
+"B-25861",NA,NA,NA,NA,128,4,3,"Clothing","Saree","COD"
+"B-25797",NA,NA,NA,NA,89,-4,5,"Clothing","Saree","Credit Card"
+"B-25993",NA,NA,NA,NA,221,26,7,"Furniture","Furnishings","COD"
+"B-25799",NA,NA,NA,NA,205,-119,3,"Clothing","Saree","Debit Card"
+"B-25721",NA,NA,NA,NA,191,51,5,"Clothing","Shirt","UPI"
+"B-26056",NA,NA,NA,NA,206,18,4,"Clothing","Hankerchief","Debit Card"
+"B-25743",NA,NA,NA,NA,56,0,4,"Clothing","Hankerchief","COD"
+"B-25854",NA,NA,NA,NA,88,16,4,"Clothing","Stole","Credit Card"
+"B-25748",NA,NA,NA,NA,224,58,3,"Electronics","Phones","UPI"
+"B-25976",NA,NA,NA,NA,193,8,4,"Clothing","T-shirt","UPI"
+"B-25953",NA,NA,NA,NA,87,36,5,"Clothing","Stole","Credit Card"
+"B-25996",NA,NA,NA,NA,189,4,1,"Clothing","Saree","UPI"
+"B-25717",NA,NA,NA,NA,55,-33,2,"Furniture","Chairs","COD"
+"B-25865",NA,NA,NA,NA,85,-1,3,"Clothing","Saree","Credit Card"
+"B-25959",NA,NA,NA,NA,252,56,2,"Electronics","Phones","UPI"
+"B-25855",NA,NA,NA,NA,197,73,1,"Furniture","Bookcases","COD"
+"B-25703",NA,NA,NA,NA,17,-3,2,"Clothing","Stole","UPI"
+"B-26049",NA,NA,NA,NA,100,28,2,"Clothing","Hankerchief","UPI"
+"B-25755",NA,NA,NA,NA,80,-19,5,"Clothing","Stole","UPI"
+"B-26070",NA,NA,NA,NA,75,29,1,"Clothing","Trousers","UPI"
+"B-25755",NA,NA,NA,NA,26,4,2,"Clothing","Saree","UPI"
+"B-26047",NA,NA,NA,NA,55,12,5,"Clothing","Skirt","COD"
+"B-25604",NA,NA,NA,NA,157,5,9,"Clothing","Saree","UPI"
+"B-25651",NA,NA,NA,NA,200,-60,4,"Furniture","Bookcases","UPI"
+"B-25983",NA,NA,NA,NA,230,5,2,"Clothing","Saree","UPI"
+"B-26056",NA,NA,NA,NA,213,-145,3,"Furniture","Bookcases","Debit Card"
+"B-25940",NA,NA,NA,NA,55,4,2,"Clothing","Stole","COD"
+"B-25766",NA,NA,NA,NA,220,-19,2,"Clothing","Saree","Debit Card"
+"B-25935",NA,NA,NA,NA,150,32,3,"Clothing","Hankerchief","COD"
+"B-25970",NA,NA,NA,NA,203,84,2,"Electronics","Printers","UPI"
+"B-26053",NA,NA,NA,NA,93,31,3,"Electronics","Accessories","UPI"
+"B-25947",NA,NA,NA,NA,290,35,6,"Clothing","Hankerchief","COD"
+"B-25856",NA,NA,NA,NA,48,6,1,"Clothing","Saree","COD"
+"B-26030",NA,NA,NA,NA,221,35,4,"Electronics","Accessories","Debit Card"
+"B-26069",NA,NA,NA,NA,55,18,2,"Clothing","Kurti","COD"
+"B-25653",NA,NA,NA,NA,227,102,8,"Electronics","Accessories","Debit Card"
+"B-25627",NA,NA,NA,NA,55,-39,4,"Clothing","Stole","COD"
+"B-25947",NA,NA,NA,NA,207,33,2,"Electronics","Accessories","UPI"
+"B-25801",NA,NA,NA,NA,64,6,4,"Clothing","Saree","COD"
+"B-25964",NA,NA,NA,NA,89,6,5,"Clothing","Saree","COD"
+"B-25950",NA,NA,NA,NA,54,27,2,"Clothing","Stole","COD"
+"B-25878",NA,NA,NA,NA,84,41,3,"Clothing","T-shirt","Credit Card"
+"B-25773",NA,NA,NA,NA,209,-21,2,"Electronics","Electronic Games","UPI"
+"B-26081",NA,NA,NA,NA,79,33,4,"Clothing","Stole","UPI"
+"B-26027",NA,NA,NA,NA,54,8,4,"Clothing","T-shirt","COD"
+"B-25967",NA,NA,NA,NA,229,59,9,"Clothing","Saree","Debit Card"
+"B-25901",NA,NA,NA,NA,158,38,3,"Clothing","Hankerchief","UPI"
+"B-25951",NA,NA,NA,NA,248,105,2,"Electronics","Phones","Debit Card"
+"B-25853",NA,NA,NA,NA,199,6,2,"Clothing","Saree","UPI"
+"B-25923",NA,NA,NA,NA,253,-11,1,"Clothing","Trousers","Debit Card"
+"B-25793",NA,NA,NA,NA,257,-252,4,"Clothing","Saree","Debit Card"
+"B-26068",NA,NA,NA,NA,193,33,5,"Electronics","Accessories","COD"
+"B-26080",NA,NA,NA,NA,109,35,6,"Clothing","T-shirt","COD"
+"B-25843",NA,NA,NA,NA,214,30,3,"Electronics","Accessories","COD"
+"B-26002",NA,NA,NA,NA,141,7,7,"Clothing","Saree","COD"
+"B-25993",NA,NA,NA,NA,201,32,4,"Furniture","Furnishings","UPI"
+"B-26070",NA,NA,NA,NA,54,12,4,"Clothing","Shirt","COD"
+"B-25887",NA,NA,NA,NA,83,6,6,"Clothing","Shirt","EMI"
+"B-25654",NA,NA,NA,NA,54,-3,3,"Clothing","Saree","COD"
+"B-25898",NA,NA,NA,NA,53,5,3,"Clothing","T-shirt","COD"
+"B-25664",NA,NA,NA,NA,258,-27,2,"Electronics","Phones","Debit Card"
+"B-26012",NA,NA,NA,NA,199,8,2,"Clothing","Saree","COD"
+"B-25979",NA,NA,NA,NA,82,-27,3,"Clothing","Kurti","EMI"
+"B-26054",NA,NA,NA,NA,139,36,3,"Clothing","Stole","COD"
+"B-25757",NA,NA,NA,NA,53,15,2,"Clothing","Stole","COD"
+"B-25623",NA,NA,NA,NA,53,1,4,"Clothing","Stole","COD"
+"B-25824",NA,NA,NA,NA,101,38,2,"Furniture","Furnishings","COD"
+"B-25754",NA,NA,NA,NA,262,215,2,"Electronics","Printers","Debit Card"
+"B-25693",NA,NA,NA,NA,82,-39,5,"Clothing","T-shirt","EMI"
+"B-25638",NA,NA,NA,NA,154,39,3,"Clothing","Hankerchief","COD"
+"B-25922",NA,NA,NA,NA,52,18,2,"Clothing","Stole","COD"
+"B-25919",NA,NA,NA,NA,1599,37,6,"Electronics","Electronic Games","UPI"
+"B-25989",NA,NA,NA,NA,338,41,7,"Clothing","Hankerchief","UPI"
+"B-25999",NA,NA,NA,NA,51,-49,2,"Electronics","Electronic Games","COD"
+"B-25661",NA,NA,NA,NA,224,-81,3,"Furniture","Chairs","COD"
+"B-26099",NA,NA,NA,NA,207,37,4,"Clothing","Hankerchief","COD"
+"B-25866",NA,NA,NA,NA,51,14,2,"Clothing","Stole","COD"
+"B-26098",NA,NA,NA,NA,82,8,3,"Electronics","Accessories","EMI"
+"B-26062",NA,NA,NA,NA,50,-17,2,"Clothing","Stole","COD"
+"B-25761",NA,NA,NA,NA,263,-31,9,"Electronics","Electronic Games","Debit Card"
+"B-25843",NA,NA,NA,NA,50,7,6,"Clothing","Skirt","COD"
+"B-25683",NA,NA,NA,NA,245,-3,4,"Electronics","Phones","UPI"
+"B-25959",NA,NA,NA,NA,82,24,6,"Clothing","Hankerchief","EMI"
+"B-25787",NA,NA,NA,NA,229,-41,8,"Electronics","Accessories","COD"
+"B-25951",NA,NA,NA,NA,50,14,1,"Electronics","Electronic Games","COD"
+"B-26056",NA,NA,NA,NA,220,40,2,"Electronics","Accessories","COD"
+"B-25643",NA,NA,NA,NA,263,-63,2,"Electronics","Electronic Games","Debit Card"
+"B-26093",NA,NA,NA,NA,81,-41,5,"Clothing","Leggings","EMI"
+"B-25775",NA,NA,NA,NA,50,-17,2,"Clothing","Stole","COD"
+"B-26093",NA,NA,NA,NA,49,5,4,"Clothing","Hankerchief","COD"
+"B-25851",NA,NA,NA,NA,237,47,9,"Clothing","T-shirt","UPI"
+"B-25685",NA,NA,NA,NA,264,-30,3,"Furniture","Furnishings","Debit Card"
+"B-25651",NA,NA,NA,NA,49,3,1,"Clothing","Shirt","COD"
+"B-25793",NA,NA,NA,NA,63,-24,6,"Clothing","Kurti","COD"
+"B-25708",NA,NA,NA,NA,81,-51,7,"Clothing","Stole","EMI"
+"B-25847",NA,NA,NA,NA,264,71,10,"Furniture","Furnishings","Debit Card"
+"B-25954",NA,NA,NA,NA,48,11,2,"Clothing","Shirt","COD"
+"B-25997",NA,NA,NA,NA,48,15,1,"Clothing","Hankerchief","COD"
+"B-25650",NA,NA,NA,NA,245,-78,2,"Electronics","Printers","UPI"
+"B-25883",NA,NA,NA,NA,146,42,5,"Clothing","Hankerchief","UPI"
+"B-25945",NA,NA,NA,NA,245,10,2,"Furniture","Bookcases","COD"
+"B-25981",NA,NA,NA,NA,245,91,2,"Furniture","Bookcases","UPI"
+"B-25862",NA,NA,NA,NA,80,3,3,"Clothing","Stole","EMI"
+"B-25877",NA,NA,NA,NA,269,33,5,"Furniture","Chairs","Debit Card"
+"B-26090",NA,NA,NA,NA,80,22,3,"Clothing","Stole","EMI"
+"B-26050",NA,NA,NA,NA,284,44,6,"Clothing","Hankerchief","COD"
+"B-26072",NA,NA,NA,NA,313,44,3,"Electronics","Electronic Games","COD"
+"B-25916",NA,NA,NA,NA,80,-26,9,"Clothing","Skirt","EMI"
+"B-25722",NA,NA,NA,NA,48,-8,8,"Clothing","Stole","COD"
+"B-25746",NA,NA,NA,NA,87,16,2,"Clothing","Saree","UPI"
+"B-25753",NA,NA,NA,NA,47,-114,5,"Furniture","Furnishings","COD"
+"B-25956",NA,NA,NA,NA,140,28,2,"Electronics","Phones","COD"
+"B-25996",NA,NA,NA,NA,47,1,2,"Clothing","Stole","COD"
+"B-25896",NA,NA,NA,NA,79,-2,2,"Furniture","Furnishings","EMI"
+"B-25796",NA,NA,NA,NA,78,-64,7,"Clothing","Stole","EMI"
+"B-25798",NA,NA,NA,NA,47,-3,2,"Clothing","Stole","COD"
+"B-26043",NA,NA,NA,NA,185,48,4,"Clothing","Stole","UPI"
+"B-26028",NA,NA,NA,NA,77,36,2,"Clothing","Shirt","EMI"
+"B-25812",NA,NA,NA,NA,259,47,5,"Clothing","Hankerchief","UPI"
+"B-25605",NA,NA,NA,NA,75,0,7,"Clothing","Saree","EMI"
+"B-25702",NA,NA,NA,NA,75,0,3,"Clothing","Shirt","EMI"
+"B-25940",NA,NA,NA,NA,46,0,4,"Clothing","Leggings","COD"
+"B-26087",NA,NA,NA,NA,46,13,3,"Clothing","Hankerchief","COD"
+"B-25955",NA,NA,NA,NA,200,13,5,"Electronics","Phones","COD"
+"B-25626",NA,NA,NA,NA,46,-14,1,"Electronics","Phones","COD"
+"B-25811",NA,NA,NA,NA,126,52,4,"Clothing","Hankerchief","UPI"
+"B-25856",NA,NA,NA,NA,74,29,3,"Clothing","Stole","EMI"
+"B-25628",NA,NA,NA,NA,45,13,4,"Clothing","Skirt","COD"
+"B-26016",NA,NA,NA,NA,74,9,3,"Clothing","Shirt","UPI"
+"B-25999",NA,NA,NA,NA,129,11,2,"Electronics","Phones","UPI"
+"B-26043",NA,NA,NA,NA,122,50,7,"Clothing","Stole","UPI"
+"B-25743",NA,NA,NA,NA,74,-51,3,"Clothing","Stole","UPI"
+"B-26014",NA,NA,NA,NA,278,39,5,"Furniture","Chairs","Debit Card"
+"B-25876",NA,NA,NA,NA,282,14,4,"Clothing","Trousers","Debit Card"
+"B-25785",NA,NA,NA,NA,45,0,2,"Clothing","T-shirt","COD"
+"B-25810",NA,NA,NA,NA,45,6,3,"Clothing","Shirt","COD"
+"B-25833",NA,NA,NA,NA,45,16,3,"Clothing","Stole","COD"
+"B-25931",NA,NA,NA,NA,73,-36,3,"Furniture","Chairs","UPI"
+"B-25852",NA,NA,NA,NA,45,12,4,"Clothing","Hankerchief","COD"
+"B-25738",NA,NA,NA,NA,72,-6,3,"Clothing","Saree","UPI"
+"B-25921",NA,NA,NA,NA,71,-44,5,"Electronics","Accessories","UPI"
+"B-25685",NA,NA,NA,NA,45,-2,4,"Clothing","Shirt","COD"
+"B-25996",NA,NA,NA,NA,286,140,6,"Clothing","Shirt","Debit Card"
+"B-25663",NA,NA,NA,NA,294,138,2,"Electronics","Printers","Debit Card"
+"B-25888",NA,NA,NA,NA,223,4,3,"Electronics","Phones","COD"
+"B-25677",NA,NA,NA,NA,20,-2,1,"Electronics","Accessories","UPI"
+"B-26045",NA,NA,NA,NA,302,75,6,"Furniture","Furnishings","Debit Card"
+"B-26002",NA,NA,NA,NA,113,28,2,"Clothing","Saree","UPI"
+"B-25953",NA,NA,NA,NA,44,2,3,"Clothing","Hankerchief","COD"
+"B-25617",NA,NA,NA,NA,305,-270,5,"Electronics","Electronic Games","Debit Card"
+"B-25702",NA,NA,NA,NA,306,-147,3,"Clothing","Saree","Debit Card"
+"B-25799",NA,NA,NA,NA,70,-64,5,"Clothing","Stole","UPI"
+"B-25985",NA,NA,NA,NA,44,11,4,"Clothing","Stole","COD"
+"B-25952",NA,NA,NA,NA,44,14,3,"Clothing","Hankerchief","COD"
+"B-25754",NA,NA,NA,NA,319,312,5,"Clothing","Saree","Debit Card"
+"B-25770",NA,NA,NA,NA,287,-280,12,"Furniture","Chairs","UPI"
+"B-25954",NA,NA,NA,NA,44,10,3,"Clothing","Stole","COD"
+"B-25657",NA,NA,NA,NA,288,-180,4,"Furniture","Chairs","COD"
+"B-25801",NA,NA,NA,NA,49,-31,2,"Clothing","Stole","COD"
+"B-26000",NA,NA,NA,NA,43,-10,4,"Clothing","Skirt","COD"
+"B-25897",NA,NA,NA,NA,43,5,3,"Clothing","Stole","COD"
+"B-25681",NA,NA,NA,NA,68,-27,3,"Electronics","Accessories","UPI"
+"B-25852",NA,NA,NA,NA,320,144,1,"Electronics","Printers","Debit Card"
+"B-26067",NA,NA,NA,NA,67,2,4,"Clothing","T-shirt","UPI"
+"B-25601",NA,NA,NA,NA,66,-12,5,"Clothing","Stole","UPI"
+"B-25804",NA,NA,NA,NA,321,26,3,"Electronics","Printers","Debit Card"
+"B-25751",NA,NA,NA,NA,43,-5,2,"Clothing","Saree","COD"
+"B-25630",NA,NA,NA,NA,114,-39,5,"Clothing","Kurti","COD"
+"B-25899",NA,NA,NA,NA,43,17,1,"Clothing","Saree","COD"
+"B-25751",NA,NA,NA,NA,43,21,3,"Clothing","Shirt","COD"
+"B-26081",NA,NA,NA,NA,637,50,5,"Clothing","Saree","COD"
+"B-25851",NA,NA,NA,NA,300,42,2,"Electronics","Printers","COD"
+"B-26036",NA,NA,NA,NA,341,44,7,"Furniture","Furnishings","UPI"
+"B-25704",NA,NA,NA,NA,102,0,3,"Electronics","Phones","COD"
+"B-25761",NA,NA,NA,NA,328,-15,3,"Electronics","Electronic Games","Debit Card"
+"B-25978",NA,NA,NA,NA,341,160,7,"Clothing","Stole","Debit Card"
+"B-26077",NA,NA,NA,NA,62,11,7,"Clothing","Hankerchief","UPI"
+"B-25981",NA,NA,NA,NA,42,13,3,"Clothing","Leggings","COD"
+"B-26043",NA,NA,NA,NA,62,28,5,"Clothing","Hankerchief","UPI"
+"B-25896",NA,NA,NA,NA,42,7,2,"Clothing","Kurti","COD"
+"B-25790",NA,NA,NA,NA,42,-3,1,"Electronics","Electronic Games","COD"
+"B-25789",NA,NA,NA,NA,313,-13,5,"Furniture","Bookcases","UPI"
+"B-26061",NA,NA,NA,NA,109,52,2,"Clothing","Stole","UPI"
+"B-25923",NA,NA,NA,NA,226,58,3,"Electronics","Accessories","COD"
+"B-25868",NA,NA,NA,NA,62,-1,1,"Electronics","Phones","UPI"
+"B-25777",NA,NA,NA,NA,61,-25,4,"Electronics","Accessories","UPI"
+"B-25999",NA,NA,NA,NA,222,74,5,"Clothing","Hankerchief","COD"
+"B-25854",NA,NA,NA,NA,342,-154,7,"Furniture","Furnishings","Debit Card"
+"B-25667",NA,NA,NA,NA,344,-34,3,"Clothing","Saree","Debit Card"
+"B-25829",NA,NA,NA,NA,345,38,7,"Clothing","Hankerchief","Debit Card"
+"B-25705",NA,NA,NA,NA,46,0,2,"Electronics","Electronic Games","COD"
+"B-25843",NA,NA,NA,NA,255,74,5,"Clothing","Hankerchief","COD"
+"B-25958",NA,NA,NA,NA,360,32,3,"Clothing","Saree","UPI"
+"B-25893",NA,NA,NA,NA,372,59,3,"Electronics","Printers","UPI"
+"B-25855",NA,NA,NA,NA,61,30,2,"Clothing","Hankerchief","UPI"
+"B-25616",NA,NA,NA,NA,42,12,5,"Clothing","Hankerchief","COD"
+"B-25630",NA,NA,NA,NA,42,-26,2,"Clothing","Kurti","COD"
+"B-25936",NA,NA,NA,NA,61,25,4,"Clothing","Saree","UPI"
+"B-25830",NA,NA,NA,NA,41,11,6,"Clothing","Hankerchief","COD"
+"B-25930",NA,NA,NA,NA,40,13,3,"Clothing","T-shirt","COD"
+"B-25808",NA,NA,NA,NA,59,21,2,"Clothing","Stole","UPI"
+"B-25979",NA,NA,NA,NA,57,27,2,"Clothing","Shirt","UPI"
+"B-25687",NA,NA,NA,NA,17,6,1,"Clothing","Stole","UPI"
+"B-26087",NA,NA,NA,NA,40,10,2,"Clothing","Stole","COD"
+"B-25764",NA,NA,NA,NA,349,-24,2,"Clothing","Saree","Debit Card"
+"B-25782",NA,NA,NA,NA,335,-22,7,"Furniture","Chairs","UPI"
+"B-25854",NA,NA,NA,NA,40,16,3,"Clothing","Hankerchief","COD"
+"B-26085",NA,NA,NA,NA,40,17,2,"Clothing","Stole","COD"
+"B-25630",NA,NA,NA,NA,40,-7,3,"Clothing","Stole","COD"
+"B-25999",NA,NA,NA,NA,352,74,8,"Clothing","Stole","Debit Card"
+"B-25648",NA,NA,NA,NA,55,-26,4,"Clothing","Saree","UPI"
+"B-25952",NA,NA,NA,NA,352,18,5,"Clothing","Trousers","Debit Card"
+"B-25710",NA,NA,NA,NA,53,-18,4,"Clothing","T-shirt","UPI"
+"B-25685",NA,NA,NA,NA,51,7,2,"Furniture","Furnishings","UPI"
+"B-25740",NA,NA,NA,NA,40,-37,3,"Clothing","Stole","COD"
+"B-25973",NA,NA,NA,NA,39,14,5,"Clothing","Leggings","COD"
+"B-25769",NA,NA,NA,NA,355,-4,2,"Clothing","Saree","Debit Card"
+"B-25687",NA,NA,NA,NA,357,139,2,"Clothing","Saree","Debit Card"
+"B-25603",NA,NA,NA,NA,38,18,1,"Clothing","Kurti","COD"
+"B-26050",NA,NA,NA,NA,38,9,2,"Clothing","Stole","COD"
+"B-25748",NA,NA,NA,NA,141,10,4,"Clothing","Shirt","UPI"
+"B-25833",NA,NA,NA,NA,36,4,9,"Clothing","Hankerchief","COD"
+"B-25930",NA,NA,NA,NA,351,-94,5,"Electronics","Electronic Games","COD"
+"B-26035",NA,NA,NA,NA,369,15,3,"Electronics","Electronic Games","Debit Card"
+"B-25851",NA,NA,NA,NA,53,24,6,"Clothing","Hankerchief","EMI"
+"B-25718",NA,NA,NA,NA,371,115,1,"Furniture","Bookcases","Debit Card"
+"B-25898",NA,NA,NA,NA,499,33,4,"Clothing","Saree","COD"
+"B-25893",NA,NA,NA,NA,223,62,7,"Clothing","Shirt","COD"
+"B-25983",NA,NA,NA,NA,50,-4,6,"Clothing","T-shirt","EMI"
+"B-26056",NA,NA,NA,NA,391,90,6,"Electronics","Phones","Debit Card"
+"B-25715",NA,NA,NA,NA,416,137,3,"Electronics","Phones","Debit Card"
+"B-25702",NA,NA,NA,NA,424,-17,9,"Furniture","Chairs","Debit Card"
+"B-25618",NA,NA,NA,NA,362,127,1,"Furniture","Bookcases","COD"
+"B-25643",NA,NA,NA,NA,36,-7,1,"Electronics","Electronic Games","COD"
+"B-25961",NA,NA,NA,NA,34,-10,3,"Clothing","Skirt","COD"
+"B-25873",NA,NA,NA,NA,367,73,3,"Electronics","Electronic Games","UPI"
+"B-26053",NA,NA,NA,NA,425,208,7,"Clothing","Saree","Debit Card"
+"B-25683",NA,NA,NA,NA,433,26,3,"Electronics","Printers","Debit Card"
+"B-25718",NA,NA,NA,NA,460,31,3,"Furniture","Bookcases","Debit Card"
+"B-25753",NA,NA,NA,NA,62,-56,5,"Clothing","Kurti","COD"
+"B-25852",NA,NA,NA,NA,50,16,1,"Clothing","Stole","EMI"
+"B-25914",NA,NA,NA,NA,460,-143,3,"Furniture","Chairs","Debit Card"
+"B-26083",NA,NA,NA,NA,34,3,3,"Clothing","Saree","COD"
+"B-25857",NA,NA,NA,NA,227,59,2,"Furniture","Furnishings","UPI"
+"B-25939",NA,NA,NA,NA,469,33,4,"Electronics","Electronic Games","Debit Card"
+"B-25851",NA,NA,NA,NA,103,46,2,"Clothing","Saree","UPI"
+"B-25699",NA,NA,NA,NA,34,-13,5,"Clothing","Leggings","COD"
+"B-26078",NA,NA,NA,NA,137,63,3,"Clothing","Stole","COD"
+"B-26075",NA,NA,NA,NA,34,12,2,"Clothing","Stole","COD"
+"B-25956",NA,NA,NA,NA,474,56,4,"Electronics","Phones","Debit Card"
+"B-25861",NA,NA,NA,NA,50,3,2,"Clothing","Stole","EMI"
+"B-25777",NA,NA,NA,NA,69,-67,4,"Clothing","Kurti","UPI"
+"B-25634",NA,NA,NA,NA,389,-83,3,"Furniture","Chairs","UPI"
+"B-25753",NA,NA,NA,NA,77,-43,8,"Clothing","Stole","COD"
+"B-25687",NA,NA,NA,NA,51,21,3,"Clothing","T-shirt","COD"
+"B-25885",NA,NA,NA,NA,394,146,2,"Furniture","Bookcases","UPI"
+"B-25767",NA,NA,NA,NA,48,-22,2,"Clothing","Saree","EMI"
+"B-25961",NA,NA,NA,NA,34,-12,5,"Clothing","Leggings","COD"
+"B-25923",NA,NA,NA,NA,484,28,3,"Electronics","Printers","Debit Card"
+"B-25799",NA,NA,NA,NA,47,-27,4,"Clothing","Saree","EMI"
+"B-25955",NA,NA,NA,NA,45,8,4,"Clothing","Skirt","EMI"
+"B-26015",NA,NA,NA,NA,128,55,1,"Clothing","Saree","COD"
+"B-26051",NA,NA,NA,NA,669,74,5,"Furniture","Bookcases","COD"
+"B-25822",NA,NA,NA,NA,34,13,2,"Clothing","Saree","COD"
+"B-25989",NA,NA,NA,NA,44,14,3,"Clothing","Hankerchief","Credit Card"
+"B-25910",NA,NA,NA,NA,33,1,2,"Clothing","Shirt","COD"
+"B-25956",NA,NA,NA,NA,33,10,3,"Clothing","Hankerchief","COD"
+"B-25986",NA,NA,NA,NA,487,-23,3,"Electronics","Printers","Debit Card"
+"B-26098",NA,NA,NA,NA,497,179,3,"Furniture","Chairs","Debit Card"
+"B-26061",NA,NA,NA,NA,508,203,2,"Electronics","Accessories","Debit Card"
+"B-25954",NA,NA,NA,NA,524,-25,2,"Electronics","Electronic Games","Debit Card"
+"B-26034",NA,NA,NA,NA,425,183,5,"Electronics","Accessories","UPI"
+"B-25909",NA,NA,NA,NA,168,56,3,"Clothing","Saree","COD"
+"B-25692",NA,NA,NA,NA,141,28,7,"Furniture","Furnishings","UPI"
+"B-25959",NA,NA,NA,NA,429,17,3,"Furniture","Chairs","UPI"
+"B-25745",NA,NA,NA,NA,44,-8,3,"Clothing","Stole","Credit Card"
+"B-25689",NA,NA,NA,NA,149,136,3,"Clothing","Stole","UPI"
+"B-25786",NA,NA,NA,NA,44,-34,3,"Clothing","Stole","Credit Card"
+"B-25897",NA,NA,NA,NA,33,10,3,"Clothing","Hankerchief","COD"
+"B-26056",NA,NA,NA,NA,33,9,2,"Clothing","Hankerchief","COD"
+"B-25855",NA,NA,NA,NA,442,31,2,"Electronics","Electronic Games","UPI"
+"B-25667",NA,NA,NA,NA,41,6,5,"Clothing","Skirt","Credit Card"
+"B-25701",NA,NA,NA,NA,33,-12,5,"Clothing","Hankerchief","COD"
+"B-26046",NA,NA,NA,NA,32,3,8,"Clothing","Hankerchief","COD"
+"B-25676",NA,NA,NA,NA,32,6,3,"Clothing","Shirt","COD"
+"B-26045",NA,NA,NA,NA,179,77,1,"Clothing","Saree","UPI"
+"B-25889",NA,NA,NA,NA,31,10,1,"Clothing","Kurti","COD"
+"B-25900",NA,NA,NA,NA,140,68,5,"Clothing","T-shirt","COD"
+"B-25685",NA,NA,NA,NA,529,137,3,"Electronics","Phones","Debit Card"
+"B-25622",NA,NA,NA,NA,534,0,3,"Clothing","Saree","Debit Card"
+"B-25709",NA,NA,NA,NA,41,-6,1,"Furniture","Chairs","Credit Card"
+"B-25798",NA,NA,NA,NA,379,63,2,"Clothing","Saree","COD"
+"B-25933",NA,NA,NA,NA,81,-44,3,"Clothing","Stole","COD"
+"B-25793",NA,NA,NA,NA,40,-33,5,"Clothing","Hankerchief","Credit Card"
+"B-25951",NA,NA,NA,NA,40,18,1,"Electronics","Accessories","Credit Card"
+"B-25656",NA,NA,NA,NA,534,0,3,"Clothing","Saree","Debit Card"
+"B-26056",NA,NA,NA,NA,31,9,2,"Clothing","Hankerchief","COD"
+"B-25870",NA,NA,NA,NA,473,-113,9,"Clothing","Hankerchief","UPI"
+"B-25690",NA,NA,NA,NA,31,-10,3,"Clothing","Skirt","COD"
+"B-25702",NA,NA,NA,NA,31,-3,4,"Clothing","Saree","COD"
+"B-25752",NA,NA,NA,NA,91,15,6,"Clothing","T-shirt","UPI"
+"B-25781",NA,NA,NA,NA,30,-25,2,"Clothing","T-shirt","COD"
+"B-26038",NA,NA,NA,NA,30,6,1,"Clothing","T-shirt","COD"
+"B-25761",NA,NA,NA,NA,40,0,3,"Clothing","Saree","Credit Card"
+"B-25751",NA,NA,NA,NA,534,5,2,"Electronics","Electronic Games","Debit Card"
+"B-25750",NA,NA,NA,NA,539,-146,7,"Furniture","Furnishings","Debit Card"
+"B-25726",NA,NA,NA,NA,490,-128,8,"Furniture","Bookcases","UPI"
+"B-26048",NA,NA,NA,NA,163,81,2,"Electronics","Accessories","COD"
+"B-26051",NA,NA,NA,NA,184,85,6,"Clothing","T-shirt","UPI"
+"B-25614",NA,NA,NA,NA,494,54,4,"Furniture","Bookcases","COD"
+"B-25907",NA,NA,NA,NA,30,11,5,"Clothing","Hankerchief","COD"
+"B-25789",NA,NA,NA,NA,30,0,1,"Clothing","Kurti","COD"
+"B-26097",NA,NA,NA,NA,39,-18,2,"Clothing","Leggings","Credit Card"
+"B-25902",NA,NA,NA,NA,1700,85,3,"Clothing","Trousers","COD"
+"B-25657",NA,NA,NA,NA,332,-43,6,"Electronics","Phones","UPI"
+"B-25854",NA,NA,NA,NA,436,131,9,"Clothing","Hankerchief","UPI"
+"B-25610",NA,NA,NA,NA,30,-5,2,"Furniture","Furnishings","COD"
+"B-25733",NA,NA,NA,NA,30,-10,2,"Clothing","Stole","COD"
+"B-25798",NA,NA,NA,NA,38,-13,3,"Clothing","Stole","Credit Card"
+"B-25803",NA,NA,NA,NA,511,194,3,"Furniture","Chairs","UPI"
+"B-25755",NA,NA,NA,NA,37,-53,3,"Clothing","Saree","Credit Card"
+"B-25850",NA,NA,NA,NA,513,215,2,"Electronics","Accessories","COD"
+"B-25667",NA,NA,NA,NA,516,69,4,"Furniture","Bookcases","UPI"
+"B-25796",NA,NA,NA,NA,559,-19,2,"Clothing","Trousers","Debit Card"
+"B-26013",NA,NA,NA,NA,29,-10,3,"Clothing","Skirt","COD"
+"B-25683",NA,NA,NA,NA,148,52,5,"Clothing","Stole","UPI"
+"B-26054",NA,NA,NA,NA,559,-174,2,"Electronics","Electronic Games","Debit Card"
+"B-26010",NA,NA,NA,NA,527,26,3,"Electronics","Electronic Games","COD"
+"B-25979",NA,NA,NA,NA,560,44,3,"Clothing","Saree","Debit Card"
+"B-25973",NA,NA,NA,NA,571,108,12,"Clothing","Stole","Debit Card"
+"B-25975",NA,NA,NA,NA,29,2,3,"Clothing","Skirt","COD"
+"B-26010",NA,NA,NA,NA,29,3,2,"Clothing","Stole","COD"
+"B-25767",NA,NA,NA,NA,29,-3,3,"Clothing","Saree","COD"
+"B-25815",NA,NA,NA,NA,35,14,2,"Clothing","Stole","Credit Card"
+"B-25853",NA,NA,NA,NA,579,139,3,"Electronics","Printers","Debit Card"
+"B-25756",NA,NA,NA,NA,29,-24,4,"Clothing","Leggings","COD"
+"B-25755",NA,NA,NA,NA,593,213,4,"Furniture","Bookcases","Debit Card"
+"B-25996",NA,NA,NA,NA,217,72,2,"Furniture","Furnishings","COD"
+"B-25619",NA,NA,NA,NA,353,90,8,"Clothing","Saree","COD"
+"B-26050",NA,NA,NA,NA,382,92,2,"Electronics","Printers","COD"
+"B-26000",NA,NA,NA,NA,597,93,4,"Furniture","Chairs","Debit Card"
+"B-26058",NA,NA,NA,NA,212,97,7,"Clothing","Hankerchief","COD"
+"B-25856",NA,NA,NA,NA,689,90,5,"Clothing","Saree","COD"
+"B-26044",NA,NA,NA,NA,28,-10,3,"Clothing","Skirt","COD"
+"B-25654",NA,NA,NA,NA,34,12,3,"Clothing","Hankerchief","Credit Card"
+"B-26051",NA,NA,NA,NA,600,-102,5,"Electronics","Electronic Games","Debit Card"
+"B-25636",NA,NA,NA,NA,637,113,5,"Clothing","Saree","UPI"
+"B-25710",NA,NA,NA,NA,616,-69,7,"Furniture","Furnishings","Debit Card"
+"B-25656",NA,NA,NA,NA,624,37,2,"Electronics","Electronic Games","Debit Card"
+"B-25919",NA,NA,NA,NA,28,4,1,"Clothing","T-shirt","COD"
+"B-25781",NA,NA,NA,NA,584,-444,7,"Electronics","Printers","UPI"
+"B-25899",NA,NA,NA,NA,28,6,4,"Clothing","Skirt","COD"
+"B-26093",NA,NA,NA,NA,33,-1,1,"Clothing","Saree","Credit Card"
+"B-25753",NA,NA,NA,NA,27,-20,2,"Clothing","Hankerchief","COD"
+"B-25858",NA,NA,NA,NA,27,5,2,"Clothing","Skirt","COD"
+"B-25762",NA,NA,NA,NA,27,4,3,"Clothing","Skirt","COD"
+"B-25625",NA,NA,NA,NA,635,-349,5,"Clothing","Saree","Debit Card"
+"B-25857",NA,NA,NA,NA,598,166,4,"Furniture","Bookcases","UPI"
+"B-25919",NA,NA,NA,NA,636,-204,2,"Electronics","Printers","Debit Card"
+"B-25864",NA,NA,NA,NA,27,9,2,"Clothing","Hankerchief","COD"
+"B-25698",NA,NA,NA,NA,27,-6,4,"Clothing","Hankerchief","COD"
+"B-25959",NA,NA,NA,NA,637,212,8,"Electronics","Phones","Debit Card"
+"B-26073",NA,NA,NA,NA,290,110,9,"Clothing","Stole","UPI"
+"B-25649",NA,NA,NA,NA,27,-25,2,"Clothing","Stole","COD"
+"B-25806",NA,NA,NA,NA,632,-114,4,"Furniture","Tables","UPI"
+"B-25756",NA,NA,NA,NA,643,-45,2,"Electronics","Printers","Debit Card"
+"B-26003",NA,NA,NA,NA,652,13,6,"Furniture","Furnishings","Debit Card"
+"B-25752",NA,NA,NA,NA,33,-27,1,"Furniture","Chairs","Credit Card"
+"B-25783",NA,NA,NA,NA,26,2,2,"Clothing","Hankerchief","COD"
+"B-25802",NA,NA,NA,NA,633,-633,11,"Electronics","Accessories","UPI"
+"B-25881",NA,NA,NA,NA,26,9,2,"Clothing","Leggings","COD"
+"B-25898",NA,NA,NA,NA,191,93,4,"Clothing","Shirt","UPI"
+"B-25696",NA,NA,NA,NA,887,80,3,"Electronics","Printers","UPI"
+"B-25826",NA,NA,NA,NA,637,261,2,"Electronics","Printers","COD"
+"B-25745",NA,NA,NA,NA,670,15,5,"Furniture","Bookcases","Debit Card"
+"B-25943",NA,NA,NA,NA,26,7,4,"Clothing","Hankerchief","COD"
+"B-26051",NA,NA,NA,NA,676,195,5,"Furniture","Bookcases","Debit Card"
+"B-25624",NA,NA,NA,NA,26,12,3,"Clothing","Hankerchief","COD"
+"B-25723",NA,NA,NA,NA,26,-24,1,"Clothing","Stole","COD"
+"B-26052",NA,NA,NA,NA,25,7,2,"Clothing","Stole","COD"
+"B-25603",NA,NA,NA,NA,24,-30,1,"Furniture","Chairs","COD"
+"B-25983",NA,NA,NA,NA,32,-12,1,"Furniture","Chairs","Credit Card"
+"B-25650",NA,NA,NA,NA,31,-2,2,"Clothing","Saree","Credit Card"
+"B-25656",NA,NA,NA,NA,651,169,5,"Electronics","Printers","COD"
+"B-26018",NA,NA,NA,NA,326,107,3,"Furniture","Furnishings","UPI"
+"B-25783",NA,NA,NA,NA,30,-6,2,"Clothing","Hankerchief","UPI"
+"B-25951",NA,NA,NA,NA,30,5,2,"Clothing","Kurti","UPI"
+"B-25974",NA,NA,NA,NA,662,240,2,"Furniture","Bookcases","COD"
+"B-25754",NA,NA,NA,NA,30,-23,2,"Clothing","Saree","UPI"
+"B-26073",NA,NA,NA,NA,29,9,3,"Clothing","Saree","UPI"
+"B-25796",NA,NA,NA,NA,28,1,1,"Electronics","Accessories","UPI"
+"B-25653",NA,NA,NA,NA,28,-3,2,"Clothing","Saree","UPI"
+"B-25884",NA,NA,NA,NA,24,2,4,"Clothing","Hankerchief","COD"
+"B-25650",NA,NA,NA,NA,28,-26,2,"Clothing","Stole","UPI"
+"B-26045",NA,NA,NA,NA,27,5,1,"Clothing","Stole","UPI"
+"B-25672",NA,NA,NA,NA,27,-15,1,"Clothing","Stole","UPI"
+"B-25949",NA,NA,NA,NA,24,11,3,"Clothing","Hankerchief","COD"
+"B-25733",NA,NA,NA,NA,23,-6,4,"Clothing","Hankerchief","COD"
+"B-25697",NA,NA,NA,NA,322,193,5,"Electronics","Printers","COD"
+"B-25893",NA,NA,NA,NA,688,-103,6,"Electronics","Accessories","Debit Card"
+"B-25802",NA,NA,NA,NA,23,-3,1,"Clothing","Shirt","COD"
+"B-25961",NA,NA,NA,NA,26,3,3,"Clothing","Skirt","UPI"
+"B-25751",NA,NA,NA,NA,68,-56,2,"Electronics","Phones","COD"
+"B-25814",NA,NA,NA,NA,462,169,4,"Clothing","Saree","COD"
+"B-25702",NA,NA,NA,NA,941,203,3,"Furniture","Tables","UPI"
+"B-25896",NA,NA,NA,NA,23,4,2,"Clothing","Skirt","COD"
+"B-25969",NA,NA,NA,NA,720,43,2,"Electronics","Printers","UPI"
+"B-25778",NA,NA,NA,NA,724,-447,4,"Electronics","Electronic Games","UPI"
+"B-25859",NA,NA,NA,NA,724,253,2,"Furniture","Bookcases","UPI"
+"B-25810",NA,NA,NA,NA,26,10,4,"Clothing","Hankerchief","UPI"
+"B-25616",NA,NA,NA,NA,22,-2,3,"Clothing","Hankerchief","COD"
+"B-25633",NA,NA,NA,NA,711,-8,4,"Clothing","Saree","Debit Card"
+"B-25753",NA,NA,NA,NA,107,31,5,"Clothing","T-shirt","COD"
+"B-25764",NA,NA,NA,NA,765,-153,2,"Electronics","Phones","Debit Card"
+"B-25864",NA,NA,NA,NA,22,8,2,"Clothing","Leggings","COD"
+"B-25725",NA,NA,NA,NA,26,-5,2,"Clothing","Stole","UPI"
+"B-25858",NA,NA,NA,NA,22,8,3,"Clothing","Hankerchief","COD"
+"B-25817",NA,NA,NA,NA,743,89,5,"Electronics","Printers","UPI"
+"B-25703",NA,NA,NA,NA,22,-15,4,"Clothing","Kurti","COD"
+"B-25610",NA,NA,NA,NA,781,594,6,"Electronics","Printers","Debit Card"
+"B-25652",NA,NA,NA,NA,25,-2,5,"Clothing","Hankerchief","UPI"
+"B-25891",NA,NA,NA,NA,25,2,2,"Clothing","Hankerchief","UPI"
+"B-25764",NA,NA,NA,NA,119,43,5,"Clothing","T-shirt","COD"
+"B-25664",NA,NA,NA,NA,785,52,2,"Electronics","Phones","Debit Card"
+"B-25645",NA,NA,NA,NA,183,-66,5,"Electronics","Phones","UPI"
+"B-26008",NA,NA,NA,NA,22,4,1,"Clothing","Stole","COD"
+"B-26061",NA,NA,NA,NA,642,180,5,"Clothing","Saree","COD"
+"B-25781",NA,NA,NA,NA,767,-353,5,"Clothing","Trousers","COD"
+"B-25999",NA,NA,NA,NA,770,323,3,"Electronics","Accessories","COD"
+"B-25783",NA,NA,NA,NA,21,-17,3,"Clothing","Shirt","COD"
+"B-25800",NA,NA,NA,NA,21,-6,3,"Clothing","Leggings","COD"
+"B-26093",NA,NA,NA,NA,492,187,2,"Electronics","Accessories","UPI"
+"B-25638",NA,NA,NA,NA,816,-96,3,"Electronics","Printers","Debit Card"
+"B-26026",NA,NA,NA,NA,25,2,3,"Clothing","Kurti","Credit Card"
+"B-25902",NA,NA,NA,NA,802,120,7,"Electronics","Accessories","COD"
+"B-25968",NA,NA,NA,NA,811,154,7,"Electronics","Accessories","UPI"
+"B-26099",NA,NA,NA,NA,835,267,5,"Electronics","Phones","Debit Card"
+"B-25699",NA,NA,NA,NA,21,-5,1,"Electronics","Accessories","COD"
+"B-26076",NA,NA,NA,NA,450,-190,4,"Furniture","Bookcases","COD"
+"B-25793",NA,NA,NA,NA,24,-1,4,"Clothing","Skirt","Credit Card"
+"B-25671",NA,NA,NA,NA,832,0,3,"Clothing","Trousers","UPI"
+"B-26040",NA,NA,NA,NA,833,93,3,"Clothing","Trousers","UPI"
+"B-26059",NA,NA,NA,NA,20,6,1,"Clothing","T-shirt","COD"
+"B-25725",NA,NA,NA,NA,23,-5,7,"Clothing","Hankerchief","Credit Card"
+"B-25855",NA,NA,NA,NA,550,-242,5,"Furniture","Furnishings","UPI"
+"B-25738",NA,NA,NA,NA,148,-91,2,"Electronics","Phones","COD"
+"B-25899",NA,NA,NA,NA,846,9,2,"Furniture","Chairs","Debit Card"
+"B-25608",NA,NA,NA,NA,856,385,6,"Electronics","Printers","COD"
+"B-25904",NA,NA,NA,NA,871,131,2,"Furniture","Bookcases","UPI"
+"B-26056",NA,NA,NA,NA,19,-18,4,"Clothing","Kurti","COD"
+"B-25669",NA,NA,NA,NA,610,-66,2,"Furniture","Tables","COD"
+"B-25638",NA,NA,NA,NA,880,97,8,"Furniture","Furnishings","Debit Card"
+"B-25953",NA,NA,NA,NA,22,-8,4,"Clothing","Hankerchief","Credit Card"
+"B-25841",NA,NA,NA,NA,22,11,2,"Clothing","Skirt","Credit Card"
+"B-26071",NA,NA,NA,NA,21,4,3,"Clothing","Hankerchief","Credit Card"
+"B-25793",NA,NA,NA,NA,18,1,3,"Clothing","Hankerchief","COD"
+"B-25813",NA,NA,NA,NA,911,202,7,"Furniture","Chairs","COD"
+"B-26010",NA,NA,NA,NA,18,2,3,"Clothing","Hankerchief","COD"
+"B-25825",NA,NA,NA,NA,911,355,5,"Electronics","Phones","Debit Card"
+"B-25630",NA,NA,NA,NA,143,-129,2,"Electronics","Phones","COD"
+"B-25986",NA,NA,NA,NA,918,22,9,"Electronics","Electronic Games","COD"
+"B-25650",NA,NA,NA,NA,925,-447,5,"Electronics","Electronic Games","COD"
+"B-26078",NA,NA,NA,NA,17,8,2,"Clothing","Skirt","COD"
+"B-25890",NA,NA,NA,NA,465,207,9,"Clothing","Saree","COD"
+"B-25691",NA,NA,NA,NA,17,-9,3,"Clothing","Stole","COD"
+"B-25952",NA,NA,NA,NA,935,114,4,"Electronics","Electronic Games","UPI"
+"B-25651",NA,NA,NA,NA,16,-10,2,"Clothing","T-shirt","COD"
+"B-25955",NA,NA,NA,NA,954,95,3,"Electronics","Printers","UPI"
+"B-25898",NA,NA,NA,NA,915,-99,3,"Furniture","Tables","Debit Card"
+"B-25838",NA,NA,NA,NA,955,305,3,"Electronics","Printers","Debit Card"
+"B-25797",NA,NA,NA,NA,976,293,4,"Electronics","Accessories","COD"
+"B-25738",NA,NA,NA,NA,1069,0,6,"Clothing","Saree","EMI"
+"B-25661",NA,NA,NA,NA,19,-15,3,"Clothing","Hankerchief","Credit Card"
+"B-25997",NA,NA,NA,NA,16,6,3,"Clothing","Hankerchief","COD"
+"B-25667",NA,NA,NA,NA,1030,206,8,"Electronics","Printers","UPI"
+"B-25753",NA,NA,NA,NA,620,82,6,"Electronics","Accessories","COD"
+"B-25848",NA,NA,NA,NA,16,8,2,"Clothing","Hankerchief","COD"
+"B-26097",NA,NA,NA,NA,19,8,2,"Clothing","Hankerchief","Credit Card"
+"B-25633",NA,NA,NA,NA,249,-130,4,"Electronics","Phones","UPI"
+"B-25807",NA,NA,NA,NA,16,6,1,"Clothing","Stole","COD"
+"B-25752",NA,NA,NA,NA,1361,197,9,"Furniture","Bookcases","COD"
+"B-26052",NA,NA,NA,NA,15,1,1,"Clothing","Shirt","COD"
+"B-25610",NA,NA,NA,NA,1076,-38,4,"Electronics","Printers","COD"
+"B-25888",NA,NA,NA,NA,18,2,3,"Clothing","Hankerchief","Credit Card"
+"B-25937",NA,NA,NA,NA,1101,352,3,"Furniture","Bookcases","UPI"
+"B-25828",NA,NA,NA,NA,15,2,1,"Clothing","Leggings","COD"
+"B-26048",NA,NA,NA,NA,1104,209,4,"Clothing","Trousers","UPI"
+"B-25670",NA,NA,NA,NA,14,2,1,"Clothing","Hankerchief","COD"
+"B-25757",NA,NA,NA,NA,14,5,1,"Clothing","Hankerchief","COD"
+"B-25751",NA,NA,NA,NA,14,-3,2,"Clothing","Leggings","COD"
+"B-25687",NA,NA,NA,NA,14,-1,4,"Clothing","Kurti","COD"
+"B-25710",NA,NA,NA,NA,13,-8,1,"Clothing","T-shirt","COD"
+"B-25656",NA,NA,NA,NA,13,-1,3,"Clothing","Hankerchief","COD"
+"B-25601",NA,NA,NA,NA,1275,1148,7,"Furniture","Bookcases","EMI"
+"B-26053",NA,NA,NA,NA,17,1,2,"Clothing","Skirt","Credit Card"
+"B-26001",NA,NA,NA,NA,13,0,2,"Clothing","Hankerchief","COD"
+"B-25964",NA,NA,NA,NA,1270,546,11,"Electronics","Electronic Games","EMI"
+"B-26062",NA,NA,NA,NA,13,-2,1,"Clothing","Stole","COD"
+"B-25982",NA,NA,NA,NA,13,3,1,"Clothing","Leggings","COD"
+"B-25864",NA,NA,NA,NA,17,5,1,"Clothing","Hankerchief","UPI"
+"B-25693",NA,NA,NA,NA,13,-13,2,"Clothing","Skirt","COD"
+"B-25802",NA,NA,NA,NA,13,-9,2,"Clothing","Skirt","COD"
+"B-25676",NA,NA,NA,NA,1263,-56,5,"Clothing","Trousers","EMI"
+"B-25639",NA,NA,NA,NA,1629,-153,3,"Electronics","Phones","COD"
+"B-25757",NA,NA,NA,NA,17,7,3,"Clothing","Hankerchief","UPI"
+"B-26003",NA,NA,NA,NA,17,2,2,"Clothing","Skirt","UPI"
+"B-26055",NA,NA,NA,NA,1250,-12,2,"Electronics","Printers","EMI"
+"B-25786",NA,NA,NA,NA,17,-11,3,"Clothing","Skirt","UPI"
+"B-25919",NA,NA,NA,NA,977,-244,7,"Electronics","Phones","COD"
+"B-25894",NA,NA,NA,NA,1246,62,3,"Furniture","Bookcases","EMI"
+"B-25979",NA,NA,NA,NA,12,1,2,"Clothing","Hankerchief","COD"
+"B-25651",NA,NA,NA,NA,11,-4,2,"Clothing","Skirt","COD"
+"B-25653",NA,NA,NA,NA,1327,318,8,"Furniture","Chairs","EMI"
+"B-25855",NA,NA,NA,NA,1319,567,5,"Electronics","Printers","COD"
+"B-25793",NA,NA,NA,NA,1402,109,11,"Clothing","Saree","EMI"
+"B-26073",NA,NA,NA,NA,1514,742,4,"Electronics","Printers","EMI"
+"B-25881",NA,NA,NA,NA,1351,111,6,"Electronics","Electronic Games","COD"
+"B-25603",NA,NA,NA,NA,1355,-60,5,"Clothing","Trousers","COD"
+"B-25851",NA,NA,NA,NA,10,2,2,"Clothing","Hankerchief","COD"
+"B-25883",NA,NA,NA,NA,10,-2,2,"Clothing","Leggings","COD"
+"B-25768",NA,NA,NA,NA,1582,-443,6,"Clothing","Trousers","EMI"
+"B-25953",NA,NA,NA,NA,1218,352,9,"Furniture","Bookcases","EMI"
+"B-25755",NA,NA,NA,NA,321,315,5,"Clothing","Saree","UPI"
+"B-26057",NA,NA,NA,NA,736,346,5,"Electronics","Printers","COD"
+"B-26055",NA,NA,NA,NA,1218,-420,8,"Furniture","Bookcases","COD"
+"B-25855",NA,NA,NA,NA,1027,441,8,"Clothing","Saree","COD"
+"B-25989",NA,NA,NA,NA,10,5,1,"Clothing","Stole","COD"
+"B-26099",NA,NA,NA,NA,2366,552,5,"Clothing","Trousers","UPI"
+"B-25652",NA,NA,NA,NA,9,-6,2,"Clothing","Hankerchief","COD"
+"B-25723",NA,NA,NA,NA,16,-12,2,"Clothing","Stole","UPI"
+"B-26099",NA,NA,NA,NA,9,3,1,"Clothing","Skirt","COD"
+"B-25629",NA,NA,NA,NA,1560,421,3,"Clothing","Trousers","COD"
+"B-25877",NA,NA,NA,NA,1137,568,2,"Clothing","Trousers","EMI"
+"B-25767",NA,NA,NA,NA,9,-9,2,"Clothing","Kurti","COD"
+"B-25735",NA,NA,NA,NA,15,-7,1,"Clothing","Hankerchief","UPI"
+"B-26097",NA,NA,NA,NA,14,5,1,"Clothing","Hankerchief","UPI"
+"B-26070",NA,NA,NA,NA,14,7,2,"Clothing","Hankerchief","UPI"
+"B-25752",NA,NA,NA,NA,8,-2,2,"Clothing","Hankerchief","COD"
+"B-25656",NA,NA,NA,NA,1389,680,7,"Clothing","Saree","COD"
+"B-25748",NA,NA,NA,NA,8,-1,2,"Clothing","Leggings","COD"
+"B-25758",NA,NA,NA,NA,8,-2,1,"Clothing","Stole","COD"
+"B-25950",NA,NA,NA,NA,13,4,1,"Clothing","Leggings","UPI"
+"B-25707",NA,NA,NA,NA,8,-6,1,"Clothing","Stole","COD"
+"B-25909",NA,NA,NA,NA,12,2,2,"Clothing","Skirt","Credit Card"
+"B-25955",NA,NA,NA,NA,1716,309,7,"Electronics","Accessories","COD"
+"B-26023",NA,NA,NA,NA,1117,447,10,"Furniture","Bookcases","EMI"
+"B-25655",NA,NA,NA,NA,9,-6,2,"Clothing","Skirt","Credit Card"
+"B-25686",NA,NA,NA,NA,332,503,3,"Electronics","Printers","COD"
+"B-25655",NA,NA,NA,NA,7,-4,3,"Clothing","Hankerchief","COD"
+"B-25601",NA,NA,NA,NA,8,-2,3,"Clothing","Hankerchief","Credit Card"
+"B-25862",NA,NA,NA,NA,2061,701,5,"Furniture","Bookcases","UPI"
+"B-25626",NA,NA,NA,NA,1103,276,3,"Furniture","Chairs","EMI"
+"B-25823",NA,NA,NA,NA,2103,322,8,"Electronics","Electronic Games","UPI"
+"B-25881",NA,NA,NA,NA,2115,23,5,"Furniture","Chairs","COD"
+"B-25910",NA,NA,NA,NA,850,-289,5,"Electronics","Electronic Games","COD"
+"B-25830",NA,NA,NA,NA,1063,64,7,"Electronics","Phones","EMI"
+"B-25978",NA,NA,NA,NA,1063,-175,4,"Electronics","Electronic Games","EMI"
+"B-25997",NA,NA,NA,NA,2292,127,7,"Furniture","Bookcases","COD"
+"B-25661",NA,NA,NA,NA,7,-1,2,"Clothing","Hankerchief","Credit Card"
+"B-25969",NA,NA,NA,NA,2452,191,7,"Furniture","Bookcases","UPI"
+"B-25858",NA,NA,NA,NA,2457,665,11,"Electronics","Electronic Games","EMI"
+"B-25697",NA,NA,NA,NA,4,-3,1,"Clothing","Skirt","Credit Card"
+"B-25798",NA,NA,NA,NA,2830,-1981,13,"Furniture","Bookcases","EMI"
+"B-25873",NA,NA,NA,NA,7,1,1,"Clothing","Hankerchief","COD"
+"B-25740",NA,NA,NA,NA,7,0,2,"Clothing","Skirt","COD"
+"B-25700",NA,NA,NA,NA,7,-3,2,"Clothing","Hankerchief","COD"
+"B-25757",NA,NA,NA,NA,3151,-35,7,"Clothing","Trousers","EMI"
+"B-25973",NA,NA,NA,NA,4141,1698,13,"Electronics","Printers","COD"
+"B-25698",NA,NA,NA,NA,7,-2,1,"Clothing","Hankerchief","COD"
+"B-25993",NA,NA,NA,NA,4363,305,5,"Furniture","Tables","EMI"
