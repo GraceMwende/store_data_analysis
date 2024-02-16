@@ -1,9 +1,6 @@
 library(shiny)
 library(shinydashboard)
-library(ggplot2)
-library(dplyr)
-library(rio)
-library(lubridate)
+
 port <- Sys.getenv('PORT')
 
 shiny::runApp(
