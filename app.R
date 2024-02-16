@@ -21,7 +21,7 @@ header<- dashboardHeader(title = "STORE DATA")
 sidebar<-dashboardSidebar(
   sidebarMenu(
     #menuItem("Overview",tabName = "dashboard",icon = icon("dashboard")),
-    menuItem("Overview",tabName = "dashboard",icon = icon("dashboard")),
+    menuItem("Overview",tabName = "dashboard",icon = icon("dashboard",verify_fa = FALSE)),
     menuItem("Products",tabName="products",icon = icon("send",lib='glyphicon')),
     menuItem("Customers",tabName="customers",icon = icon("user",lib='glyphicon'))
   )
