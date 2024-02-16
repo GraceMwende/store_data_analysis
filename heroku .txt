@@ -1,0 +1,6 @@
+1.Upload app to github
+-make sure to include init.r and run.r
+2.Connect to Heroku
+3. Go to seetings and add below buildpack
+https://github.com/virtualstaticvoid/heroku-buildpack-r.git
+4.go to deploy and deploy on the manual deploy and choose the correct branch
