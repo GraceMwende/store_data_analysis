@@ -5,3 +5,4 @@
 https://github.com/virtualstaticvoid/heroku-buildpack-r.git
 4.go to deploy and deploy on the manual deploy and choose the correct branch
 5.App must always be app.r if you have no server.R
+6.Add verify-false to font awesome icons
